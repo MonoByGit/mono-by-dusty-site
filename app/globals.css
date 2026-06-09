@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+@import "./css/tokens.css";
+@import "./css/base.css";
+@import "./css/sections.css";
+@import "./css/brand.css";
+@import "./css/voorbeelden.css";
+@import "./css/rapportage.css";
+
+@theme {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-ink-mute: var(--ink-mute);
+
+  --color-primary: var(--primary);
+  --color-primary-ink: var(--primary-ink);
+  --color-primary-deep: var(--primary-deep);
+  --color-blue-soft: var(--blue-soft);
+
+  --color-line: var(--line);
+  --color-line-soft: var(--line-soft);
+
+  --color-c-automate: var(--c-automate);
+  --color-c-augment: var(--c-augment);
+  --color-c-agent: var(--c-agent);
+  --color-c-human: var(--c-human);
+
+  --color-t-automate: var(--t-automate);
+  --color-t-augment: var(--t-augment);
+  --color-t-agent: var(--t-agent);
+  --color-t-human: var(--t-human);
+
+  --radius-card: var(--r-card);
+  --radius-sub: var(--r-sub);
+  --radius-pill: var(--r-pill);
+
+  --font-sans: var(--font-sans);
+  --font-display: var(--font-display);
+
+  --shadow-sm: var(--shadow-sm);
+  --shadow-md: var(--shadow-md);
+  --shadow-lg: var(--shadow-lg);
+}
+
+body {
+  background: transparent;
+  color: var(--ink-soft);
+}

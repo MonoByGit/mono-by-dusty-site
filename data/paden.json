@@ -1,0 +1,290 @@
+{
+  "directiepad": {
+    "slug": "directiepad",
+    "title": "Directiepad",
+    "subtitle": "Adoptie begint en eindigt aan de top. Dit pad geeft richting, en zorgt dat het blijft hangen.",
+    "spoorText": "Een pad",
+    "isLosBoekbaar": true,
+    "imageSrc": "../assets/img/11_3_pad_directiepad.png",
+    "imageAlt": "Dusty in actie",
+    "imageLabel": "Foto: Dusty in actie tijdens deze sessie · liggend, breed",
+    "oplevert": [
+      "Een heldere koers aan de top",
+      "Een honderd-dagen-plan",
+      "Een interne motor die uitvoert",
+      "Je leidt de beweging, niet andersom"
+    ],
+    "voorWie": "De top die de beweging wil sturen en verankeren.",
+    "deReis": "Van weten waar je staat, naar een heldere koers, naar een interne motor die het uitvoert.",
+    "quote": "",
+    "included": [
+      {
+        "href": "../nulmeting.html",
+        "step": "0",
+        "title": "AI-Nulmeting",
+        "desc": "Het eerlijke beeld."
+      },
+      {
+        "href": "../aanbod/ai-voor-de-directie.html",
+        "step": "1.4",
+        "title": "AI voor de directie",
+        "desc": "Richting en beleid."
+      },
+      {
+        "href": "../aanbod/ai-champions.html",
+        "step": "1.5",
+        "title": "AI-Champions",
+        "desc": "Als kickoff, intern verankeren."
+      }
+    ],
+    "watJeKrijgt": [
+      "Een heldere koers",
+      "Een honderd-dagen-plan",
+      "Een interne motor die de organisatie zelf vooruit brengt"
+    ],
+    "anders": {
+      "title": "De winst",
+      "text": "Je leidt de AI-beweging in plaats van haar te ondergaan, en het hangt niet aan losse experimenten."
+    },
+    "praktijk": {
+      "title": "Voorbeeld uit de praktijk",
+      "text": "Een directie die na dit pad stuurde op drie heldere prioriteiten, met champions die ze waarmaakten."
+    },
+    "bookCard": {
+      "price": "± €6.500richtprijs,",
+      "unit": "richtprijs, excl. btw · begint met de nulmeting",
+      "standalone": "De exacte prijs stemmen we af op jullie situatie. Een pad is voordeliger dan de onderdelen los boeken.",
+      "reassure": "Liever eerst overleggen?Plan een kort gesprek."
+    },
+    "deliverables": [
+      {
+        "href": "../voorbeeld-rapportage.html",
+        "step": "0",
+        "title": "Bevindingenpagina",
+        "desc": "Het rapport uit je nulmeting."
+      },
+      {
+        "href": "../voorbeelden/honderd-dagen-plan.html",
+        "step": "1.4",
+        "title": "Honderd-dagen-plan",
+        "desc": "Koers, prioriteiten en meetpunten."
+      },
+      {
+        "href": "../voorbeelden/champion-pakket.html",
+        "step": "1.5",
+        "title": "Champion-pakket",
+        "desc": "De interne motor, uitgewerkt."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Moeten we het hele pad in één keer doen?",
+        "a": "Nee, een pad is een aanbevolen route. We kunnen de onderdelen spreiden in de tijd, of je start los en vult later aan."
+      },
+      {
+        "q": "Is een pad voordeliger dan los boeken?",
+        "a": "Ja, een bundel zit iets onder de som van de losse delen. En je houdt één heldere route met één aanspreekpunt."
+      },
+      {
+        "q": "Is dit alleen voor grote bedrijven?",
+        "a": "Nee, juist voor het MKB waar de directie dichtbij de vloer staat."
+      }
+    ]
+  },
+  "startpad": {
+    "slug": "startpad",
+    "title": "Startpad",
+    "subtitle": "Beginnen bij breedte. Eerst meten, dan iedereen optillen, dan veilig verankeren. De rustigste en zekerste route voor wie nog aan de start staat.",
+    "spoorText": "Een pad",
+    "isLosBoekbaar": true,
+    "imageSrc": "../assets/img/11_1_pad_startpad.png",
+    "imageAlt": "Dusty in actie",
+    "imageLabel": "Foto: Dusty in actie tijdens deze sessie · liggend, breed",
+    "oplevert": [
+      "Een vloer waarop AI normaal is",
+      "Veilig gebruik binnen heldere kaders",
+      "Niemand voelt zich buitengesloten",
+      "Van stilstand naar beweging in weken"
+    ],
+    "voorWie": "De organisatie die achterloopt en de hele vloer mee moet krijgen.",
+    "deReis": "Van een eerlijke meting, naar een vloer die zelfverzekerd werkt, naar een eerste team dat tijd wint, met heldere kaders eromheen.",
+    "quote": "",
+    "included": [
+      {
+        "href": "../nulmeting.html",
+        "step": "0",
+        "title": "AI-Nulmeting",
+        "desc": "Het startpunt: weten waar je staat."
+      },
+      {
+        "href": "../aanbod/slim-werken-met-ai.html",
+        "step": "1.1",
+        "title": "Slim werken met AI",
+        "desc": "De middengroep optillen."
+      },
+      {
+        "href": "../aanbod/ai-op-jouw-afdeling.html",
+        "step": "1.2",
+        "title": "AI op jouw afdeling",
+        "desc": "De eerste zichtbare ROI."
+      },
+      {
+        "href": "../aanbod/veilig-met-ai.html",
+        "step": "1.3",
+        "title": "Veilig met AI",
+        "desc": "De spelregels eromheen."
+      }
+    ],
+    "watJeKrijgt": [
+      "Een vloer waarop AI normaal is",
+      "Veilig gebruik binnen kaders",
+      "Niemand die zich buitengesloten voelt"
+    ],
+    "anders": {
+      "title": "De winst",
+      "text": "In een paar weken van stilstand naar een organisatie die beweegt, met de zekerheid dat het netjes gebeurt."
+    },
+    "praktijk": {
+      "title": "Voorbeeld uit de praktijk",
+      "text": "Een kantoor dat begon met een grote afwachtende middengroep, en na het pad een vloer had die AI dagelijks gebruikt."
+    },
+    "bookCard": {
+      "price": "± €5.500richtprijs,",
+      "unit": "richtprijs, excl. btw · begint met de nulmeting",
+      "standalone": "De exacte prijs stemmen we af op jullie situatie. Een pad is voordeliger dan de onderdelen los boeken.",
+      "reassure": "Liever eerst overleggen?Plan een kort gesprek."
+    },
+    "deliverables": [
+      {
+        "href": "../voorbeeld-rapportage.html",
+        "step": "0",
+        "title": "Bevindingenpagina",
+        "desc": "Het rapport uit je nulmeting."
+      },
+      {
+        "href": "../voorbeelden/ai-startkit.html",
+        "step": "1.1",
+        "title": "Jouw AI-startkit",
+        "desc": "De promptset en je eerste tijdsbespaarder."
+      },
+      {
+        "href": "../voorbeelden/afdelings-playbook.html",
+        "step": "1.2",
+        "title": "Afdelings-playbook",
+        "desc": "Drie taken, aantoonbaar sneller."
+      },
+      {
+        "href": "../voorbeelden/ai-spelregels.html",
+        "step": "1.3",
+        "title": "AI-spelregels",
+        "desc": "Het lichte, levende reglement."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Moeten we het hele pad in één keer doen?",
+        "a": "Nee, een pad is een aanbevolen route. We kunnen de onderdelen spreiden in de tijd, of je start los en vult later aan."
+      },
+      {
+        "q": "Is een pad voordeliger dan los boeken?",
+        "a": "Ja, een bundel zit iets onder de som van de losse delen. En je houdt één heldere route met één aanspreekpunt."
+      },
+      {
+        "q": "Kunnen we onderdelen later toevoegen?",
+        "a": "Ja, het pad is een startpunt, geen plafond."
+      }
+    ]
+  },
+  "versnelpad": {
+    "slug": "versnelpad",
+    "title": "Versnelpad",
+    "subtitle": "Geen tijd verliezen aan de opstap. Recht naar de diepte, van idee naar werkend en getoetst.",
+    "spoorText": "Een pad",
+    "isLosBoekbaar": true,
+    "imageSrc": "../assets/img/11_2_pad_versnelpad.png",
+    "imageAlt": "Dusty in actie",
+    "imageLabel": "Foto: Dusty in actie tijdens deze sessie · liggend, breed",
+    "oplevert": [
+      "Werkende prototypes in handen",
+      "Een getoetst idee, geen gok",
+      "Een team dat sneller durft",
+      "Gebouwd en bewezen in korte tijd"
+    ],
+    "voorWie": "Het team dat al mee is en wil bouwen.",
+    "deReis": "Van een idee op de plank, naar een werkend prototype, naar bewijs of het hout snijdt.",
+    "quote": "",
+    "included": [
+      {
+        "href": "../nulmeting.html",
+        "step": "0",
+        "title": "AI-Nulmeting",
+        "desc": "Scherp krijgen waar de bouwkracht zit."
+      },
+      {
+        "href": "../aanbod/van-idee-naar-prototype.html",
+        "step": "2.1",
+        "title": "Van idee naar prototype",
+        "desc": "Echt maken."
+      },
+      {
+        "href": "../aanbod/toets-je-idee.html",
+        "step": "2.2",
+        "title": "Toets je idee",
+        "desc": "Valideren voor je doorbouwt."
+      }
+    ],
+    "watJeKrijgt": [
+      "Werkende prototypes",
+      "Een getoetst idee",
+      "Een team dat zelfstandig sneller durft te proberen"
+    ],
+    "anders": {
+      "title": "De winst",
+      "text": "Van honger naar bouwen, naar daadwerkelijk gebouwd en bewezen, in korte tijd."
+    },
+    "praktijk": {
+      "title": "Voorbeeld uit de praktijk",
+      "text": "Een innovatieteam dat in twee dagdelen van losse ideeën naar één getoetst, werkend concept ging."
+    },
+    "bookCard": {
+      "price": "± €4.500richtprijs,",
+      "unit": "richtprijs, excl. btw · begint met de nulmeting",
+      "standalone": "De exacte prijs stemmen we af op jullie situatie. Een pad is voordeliger dan de onderdelen los boeken.",
+      "reassure": "Liever eerst overleggen?Plan een kort gesprek."
+    },
+    "deliverables": [
+      {
+        "href": "../voorbeeld-rapportage.html",
+        "step": "0",
+        "title": "Bevindingenpagina",
+        "desc": "Het rapport uit je nulmeting."
+      },
+      {
+        "href": "../voorbeelden/prototype-oplevering.html",
+        "step": "2.1",
+        "title": "Prototype, opgeleverd",
+        "desc": "Je werkende prototype, live te bekijken."
+      },
+      {
+        "href": "../voorbeelden/validatie-rapport.html",
+        "step": "2.2",
+        "title": "Validatie-rapport",
+        "desc": "Getoetst, met een helder advies."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Moeten we het hele pad in één keer doen?",
+        "a": "Nee, een pad is een aanbevolen route. We kunnen de onderdelen spreiden in de tijd, of je start los en vult later aan."
+      },
+      {
+        "q": "Is een pad voordeliger dan los boeken?",
+        "a": "Ja, een bundel zit iets onder de som van de losse delen. En je houdt één heldere route met één aanspreekpunt."
+      },
+      {
+        "q": "Hebben we technische mensen nodig?",
+        "a": "Handig, maar de aanpak werkt ook voor product- en marketingmensen."
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+/* ============================================================
+   Mono by Dusty — Brand Baseline tokens
+   Light is the perfected default; dark mirrors it.
+   ============================================================ */
+
+:root {
+  /* --- Light theme (default) --- */
+  --bg:        #FAF8F3;
+  --surface:   #FFFFFF;
+  --surface-2: #FBF9F4;
+
+  --ink:       #1A1A1A;
+  --ink-soft:  #4A4A4A;
+  --ink-mute:  #7A7A7A;
+
+  --primary:     #2B5BC4;
+  --primary-ink: #FFFFFF;
+  --primary-deep:#21489E;
+  --blue-soft:   #EAF0FB;
+
+  --line:      #E8E3D7;
+  --line-soft: #F0EDE5;
+
+  /* Four signature colours = the four logo dots */
+  --c-automate: #5B8A3A; /* green  */
+  --c-augment:  #B07A1A; /* amber  */
+  --c-agent:    #2B5BC4; /* blue   */
+  --c-human:    #6B4A8A; /* purple */
+
+  /* tints used behind tiles (light) */
+  --t-automate: #EEF3E8;
+  --t-augment:  #F6EFE1;
+  --t-agent:    #EAF0FB;
+  --t-human:    #F0EBF5;
+
+  /* radii */
+  --r-card: 14px;
+  --r-sub:  8px;
+  --r-pill: 999px;
+
+  /* layout */
+  --maxw: 1080px;
+  --maxw-wide: 1200px;
+  --gutter: clamp(20px, 5vw, 40px);
+
+  /* type */
+  --font-sans: var(--font-sans-next), "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-display: var(--font-display-next), "Newsreader", Georgia, "Times New Roman", serif;
+  --hero-family: var(--font-display);
+  --hero-weight: 500;
+  --hero-tracking: -0.018em;
+  --hero-leading: 1.04;
+
+  /* motion */
+  --ease: cubic-bezier(.22,.68,.16,1);
+  --ease-out: cubic-bezier(.16,.84,.28,1);
+  --dur: .42s;
+
+  /* elevation — warm, low-contrast */
+  --shadow-sm: 0 1px 2px rgba(40,33,20,.05), 0 2px 8px rgba(40,33,20,.04);
+  --shadow-md: 0 8px 24px rgba(40,33,20,.07), 0 2px 6px rgba(40,33,20,.05);
+  --shadow-lg: 0 24px 60px rgba(40,33,20,.10), 0 6px 16px rgba(40,33,20,.06);
+
+  --accent: var(--primary);
+  --grid-line: rgba(70,58,34,.05);
+  --grid-size: 86px;
+  color-scheme: light;
+}
+
+[data-theme="dark"] {
+  --bg:        #161513;
+  --surface:   #1F1E1B;
+  --surface-2: #232220;
+
+  --ink:       #EDE8DD;
+  --ink-soft:  #C7C2B5;
+  --ink-mute:  #8E887C;
+
+  --primary:     #A8BEEC;
+  --primary-ink: #14213A;
+  --primary-deep:#8AA6E2;
+  --blue-soft:   rgba(168,190,236,.12);
+
+  --line:      #2E2E2A;
+  --line-soft: #262521;
+
+  /* signature, lifted for contrast on dark */
+  --c-automate: #8FBE6A;
+  --c-augment:  #D8A24A;
+  --c-agent:    #A8BEEC;
+  --c-human:    #B193CE;
+
+  --t-automate: rgba(143,190,106,.10);
+  --t-augment:  rgba(216,162,74,.10);
+  --t-agent:    rgba(168,190,236,.12);
+  --t-human:    rgba(177,147,206,.12);
+
+  --shadow-sm: 0 1px 2px rgba(0,0,0,.30), 0 2px 8px rgba(0,0,0,.24);
+  --shadow-md: 0 8px 24px rgba(0,0,0,.36), 0 2px 6px rgba(0,0,0,.28);
+  --shadow-lg: 0 24px 60px rgba(0,0,0,.46), 0 6px 16px rgba(0,0,0,.34);
+
+  --grid-line: rgba(214,208,196,.05);
+  color-scheme: dark;
+}
+
+/* Spoor 2, de bouwomgeving: subtiel koeler en dieper dan de warme breedte van Spoor 1 */
+html[data-spoor="2"]{ --bg:#F4ECDB; --surface-2:#FBF5E8; }
+html[data-spoor="2"][data-theme="dark"]{ --bg:#1B1712; --surface-2:#262016; }
+/* nav + footer keep the normal house colour, grey is only the content canvas */
+html[data-spoor="2"] .nav, html[data-spoor="2"] .footer{ --bg:#FAF8F3; --surface-2:#FBF9F4; }
+html[data-spoor="2"][data-theme="dark"] .nav, html[data-spoor="2"][data-theme="dark"] .footer{ --bg:#161513; --surface-2:#232220; }

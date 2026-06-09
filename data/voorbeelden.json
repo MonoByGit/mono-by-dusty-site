@@ -1,0 +1,417 @@
+{
+  "afdelings-playbook": {
+    "slug": "afdelings-playbook",
+    "backText": "Hoort bij Spoor 1.2 · AI op jouw afdeling",
+    "backHref": "../aanbod/ai-op-jouw-afdeling.html",
+    "title": "Afdelings-playbook",
+    "subtitle": "De drie taken die we samen aanpakten, met de oude en nieuwe werkwijze, de prompts en de tijdwinst per taak.",
+    "metaNote": "Deze oplevering woont in je klant-dashboard, met al je materialen op één plek.",
+    "sections": [
+      {
+        "eyebrow": "Het resultaat",
+        "title": "De winst in het kort",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-stats\"><div class=\"vb-stat\"><div class=\"num\">3</div><div class=\"lbl\">taken aangepakt, met het echte werk van het team</div></div><div class=\"vb-stat\"><div class=\"num\">~6 uur</div><div class=\"lbl\">tijdwinst per week, over het team</div></div><div class=\"vb-stat\"><div class=\"num\">1</div><div class=\"lbl\">blauwdruk om de volgende taak zelf te vinden</div></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Het werk zelf",
+        "title": "De drie aangepakte taken",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-task-card\"><h3>Offertes en voorstellen</h3><div class=\"vb-ba\"><div class=\"col\"><h4>Oude werkwijze</h4><p>Elke offerte vanaf nul, vaak een uur werk, en steeds net even anders van toon.</p></div><div class=\"col\"><h4>Nieuwe AI-werkwijze</h4><p>Een vaste structuur die AI invult, jij stuurt alleen de inhoud en de details bij.</p></div></div><div class=\"vb-num-list\" style=\"margin-top:18px\"><div class=\"item\"><span class=\"n\"></span><p>Kern verzamelen: klant, scope, prijs.</p></div><div class=\"item\"><span class=\"n\"></span><p>Eerste opzet in de vaste structuur.</p></div><div class=\"item\"><span class=\"n\"></span><p>Toon en details bijschaven.</p></div><div class=\"item\"><span class=\"n\"></span><p>Controleren en versturen.</p></div></div><div class=\"vb-prompt\" style=\"margin-top:18px\"><h4>De prompt</h4><div class=\"ptext\">Maak een offerte voor [klant] op basis van deze punten, in onze vaste structuur en toon. [punten]</div></div><div class=\"vb-win\"><b>van 60 naar 20 min per offerte</b></div></div><div class=\"vb-task-card\"><h3>Opvolgmails</h3><div class=\"vb-ba\"><div class=\"col\"><h4>Oude werkwijze</h4><p>Handmatig nadenken over elke opvolging na een gesprek.</p></div><div class=\"col\"><h4>Nieuwe AI-werkwijze</h4><p>Korte, persoonlijke opvolgmails op basis van je gespreksnotities.</p></div></div><div class=\"vb-num-list\" style=\"margin-top:18px\"><div class=\"item\"><span class=\"n\"></span><p>Plak je korte notities van het gesprek.</p></div><div class=\"item\"><span class=\"n\"></span><p>Laat een vriendelijke opvolgmail opstellen.</p></div><div class=\"item\"><span class=\"n\"></span><p>Persoonlijk maken en versturen.</p></div></div><div class=\"vb-prompt\" style=\"margin-top:18px\"><h4>De prompt</h4><div class=\"ptext\">Schrijf een korte, vriendelijke opvolgmail na dit gesprek, met een concrete volgende stap. [notities]</div></div><div class=\"vb-win\"><b>van 15 naar 4 min per mail</b></div></div><div class=\"vb-task-card\"><h3>Verslagen samenvatten</h3><div class=\"vb-ba\"><div class=\"col\"><h4>Oude werkwijze</h4><p>Lange verslagen zelf doorploegen voor de kern.</p></div><div class=\"col\"><h4>Nieuwe AI-werkwijze</h4><p>Automatische samenvatting met actiepunten, jij checkt.</p></div></div><div class=\"vb-num-list\" style=\"margin-top:18px\"><div class=\"item\"><span class=\"n\"></span><p>Plak het verslag of de notulen.</p></div><div class=\"item\"><span class=\"n\"></span><p>Vraag om kernpunten plus actiepunten.</p></div><div class=\"item\"><span class=\"n\"></span><p>Controleer en deel met het team.</p></div></div><div class=\"vb-prompt\" style=\"margin-top:18px\"><h4>De prompt</h4><div class=\"ptext\">Vat dit verslag samen in acht bullets, met onderaan actiepunten met eigenaar en deadline. [verslag]</div></div><div class=\"vb-win\"><b>van 25 naar 5 min per verslag</b></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Overzicht",
+        "title": "Tijdwinst in één oogopslag",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-stats\"><div class=\"vb-stat\"><div class=\"num\">40 min</div><div class=\"lbl\">per offerte bespaard</div></div><div class=\"vb-stat\"><div class=\"num\">11 min</div><div class=\"lbl\">per opvolgmail bespaard</div></div><div class=\"vb-stat\"><div class=\"num\">20 min</div><div class=\"lbl\">per verslag bespaard</div></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Het patroon",
+        "title": "Zo vind je de volgende",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>De winst zit altijd op dezelfde plek: <b>taken die vaak terugkomen, een vaste vorm hebben, en nu handmatig gebeuren</b>. Loop een week mee met jezelf en noteer waar je tijd in kruipt. Drie van die taken pak je met dezelfde aanpak aan als hierboven.</p></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Afspraken",
+        "title": "Teamafspraken",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><ul class=\"vb-list\"><li>We controleren altijd het resultaat voordat het naar buiten gaat.</li><li>Gevoelige klantgegevens gaan alleen de tool in volgens onze spelregels.</li><li>Werkende prompts delen we in onze gezamenlijke set.</li><li>Eens per maand bespreken we wat goed werkt en wat niet.</li></ul></div></div></body></html>"
+      }
+    ]
+  },
+  "ai-spelregels": {
+    "slug": "ai-spelregels",
+    "backText": "Hoort bij Spoor 1.3 · Veilig met AI",
+    "backHref": "../aanbod/veilig-met-ai.html",
+    "title": "Jullie AI-spelregels",
+    "subtitle": "Een licht, levend reglement: wat mag wel en niet, hoe je omgaat met gegevens, en bij twijfel wie je vraagt.",
+    "metaNote": "Deze oplevering woont in je klant-dashboard, met al je materialen op één plek.",
+    "sections": [
+      {
+        "eyebrow": "De kern",
+        "title": "Wat mag wel en wat niet",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"dd\"><div class=\"dd-col good\"><h4>Dit mag</h4><ul><li>AI gebruiken voor concepten, samenvattingen en eerste opzetten.</li><li>Werken met openbare en niet-gevoelige informatie.</li><li>Eigen teksten laten verbeteren op toon en taal.</li><li>Ideeën aftasten en aanpakken vergelijken.</li></ul></div><div class=\"dd-col bad\"><h4>Dit niet</h4><ul><li>Bijzondere persoonsgegevens of medische data invoeren.</li><li>Klantdossiers of contracten plakken zonder afspraak.</li><li>Wachtwoorden, inloggegevens of broncode delen.</li><li>AI-uitkomsten ongecontroleerd naar buiten brengen.</li></ul></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Gegevens",
+        "title": "Omgaan met klant- en bedrijfsgegevens",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>De vuistregel is simpel: <b>zou je dit op een ansichtkaart durven zetten?</b> Zo niet, dan gaat het niet zomaar de tool in.</p></div><ul class=\"vb-list\" style=\"margin-top:16px\"><li>Anonimiseer waar het kan: vervang namen door rollen.</li><li>Gebruik de zakelijke omgeving, niet een privé-account.</li><li>Bewaar gevoelige output niet langer dan nodig.</li></ul></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Wetgeving",
+        "title": "AVG en EU AI Act, werkbaar gemaakt",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>Geen juridische lezing, maar drie principes die in de praktijk werken. <b>Dataminimalisatie:</b> deel alleen wat echt nodig is. <b>Transparantie:</b> wees eerlijk wanneer iets met AI is gemaakt waar dat telt. <b>Menselijk eindoordeel:</b> een mens beslist, AI adviseert. Daarmee zit je voor het dagelijks werk goed, en weet je wanneer je moet doorvragen.</p></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Twijfel",
+        "title": "Bij twijfel, wie vraag je",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-task-card\"><div class=\"vb-prose\"><p>Niet zeker of iets mag? Vraag het, voor je het doet. Dat is altijd de goedkoopste route.</p></div><ul class=\"vb-list\" style=\"margin-top:14px\"><li><b>Eerste aanspreekpunt:</b> je AI-champion of teamlead.</li><li><b>Over gegevens en privacy:</b> de verantwoordelijke voor databeheer.</li><li><b>Geen antwoord?</b> Dan doen we het niet, tot het helder is.</li></ul></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Tot slot",
+        "title": "Een levend reglement",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>Dit is geen document dat in een la verdwijnt. Het vakgebied beweegt, en deze spelregels bewegen mee. We kijken er elk kwartaal kort naar, en passen aan wat de praktijk ons leert.</p></div></div></div></body></html>"
+      }
+    ]
+  },
+  "ai-startkit": {
+    "slug": "ai-startkit",
+    "backText": "Hoort bij Spoor 1.1 · Slim werken met AI",
+    "backHref": "../aanbod/slim-werken-met-ai.html",
+    "title": "Jouw AI-startkit",
+    "subtitle": "Wat je team meenam uit de sessie: een eigen promptset, heldere afspraken, en de eerste taak die vanaf maandag sneller gaat.",
+    "metaNote": "Deze oplevering woont in je klant-dashboard, met al je materialen op één plek.",
+    "sections": [
+      {
+        "eyebrow": "Uit de sessie",
+        "title": "Dit nam je team mee",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>Iedereen werkte met de eigen taken van die week. Geen theorie over taalmodellen, maar echte mails, offertes en documenten. Dit is wat er klaarligt om te blijven gebruiken.</p></div><ul class=\"vb-list\" style=\"margin-top:18px\"><li><b>Een persoonlijke promptset</b> per deelnemer, klaar voor hergebruik.</li><li><b>Heldere do's en don'ts</b> om fouten te herkennen en te voorkomen.</li><li><b>Een eerste tijdsbespaarder</b> die maandag al werkt.</li><li><b>De houding</b> om AI er standaard even bij te pakken.</li></ul></div></div></body></html>"
+      },
+      {
+        "eyebrow": "De promptset",
+        "title": "Acht prompts om te hergebruiken",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-grid2\"><div class=\"vb-prompt\"><h4>Mail korter en duidelijker</h4><div class=\"when\">Een lange mail inkorten zonder de toon te verliezen.</div><div class=\"ptext\">Herschrijf onderstaande mail korter en duidelijker, in een vriendelijke en professionele toon. Behoud alle concrete afspraken en data. [plak mail]</div></div><div class=\"vb-prompt\"><h4>Notulen en actiepunten</h4><div class=\"when\">Vlak na een overleg, om snel te delen.</div><div class=\"ptext\">Vat deze notulen samen in maximaal acht bullets, met onderaan de actiepunten met eigenaar en deadline. [plak notulen]</div></div><div class=\"vb-prompt\"><h4>Eerste opzet van een document</h4><div class=\"when\">Als je met een leeg blad zit.</div><div class=\"ptext\">Schrijf een eerste opzet voor een [type document] over [onderwerp], voor [doelgroep]. Zakelijk en concreet, ongeveer [aantal] woorden.</div></div><div class=\"vb-prompt\"><h4>Klantvraag beantwoorden</h4><div class=\"when\">Bij een terugkerende vraag.</div><div class=\"ptext\">Schrijf een vriendelijk, helder antwoord op deze klantvraag. Verzin geen informatie die ik niet geef. [plak vraag]</div></div><div class=\"vb-prompt\"><h4>Tekst checken voor verzending</h4><div class=\"when\">Vlak voordat je iets de deur uit doet.</div><div class=\"ptext\">Controleer deze tekst op spelfouten en op een consistente, professionele toon. Geef de verbeterde versie en noem kort wat je veranderde.</div></div><div class=\"vb-prompt\"><h4>Aanpak aanscherpen</h4><div class=\"when\">Als je vastloopt op een keuze.</div><div class=\"ptext\">Ik wil [doel]. Geef drie aanpakken met voor elk de voor- en nadelen, kort en concreet.</div></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Veilig en scherp",
+        "title": "Do's en don'ts",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"dd\"><div class=\"dd-col good\"><h4>Wel doen</h4><ul><li>Geef context: wie ben je, wat wil je, voor wie is het.</li><li>Controleer altijd het resultaat voordat je het gebruikt.</li><li>Werk in stappen en vraag door.</li><li>Geef je eigen voorbeeld mee als richtlijn voor de toon.</li></ul></div><div class=\"dd-col bad\"><h4>Niet doen</h4><ul><li>Geen gevoelige klantgegevens plakken zonder afspraak.</li><li>Cijfers en feiten niet blind vertrouwen.</li><li>Het je eindoordeel niet laten vervangen.</li><li>Niets ongelezen versturen.</li></ul></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Direct resultaat",
+        "title": "Jouw eerste tijdsbespaarder",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-task-card\"><h3>Offertes opstellen</h3><div class=\"vb-prose\"><p>De taak die het meeste tijd kostte, nu in een vaste werkwijze.</p></div><div class=\"vb-num-list\" style=\"margin-top:18px\"><div class=\"item\"><span class=\"n\"></span><p>Verzamel de kern: klant, scope en prijs in een paar regels.</p></div><div class=\"item\"><span class=\"n\"></span><p>Laat AI een eerste opzet maken met <b>jouw vaste offertestructuur</b>.</p></div><div class=\"item\"><span class=\"n\"></span><p>Pas de toon en de details aan naar de klant.</p></div><div class=\"item\"><span class=\"n\"></span><p>Controleer de cijfers en verstuur.</p></div></div><div class=\"vb-win\"><b>van 60 naar 20 min</b> per offerte, in je eigen toon</div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Verder",
+        "title": "De volgende stap",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>Wil je dit niet algemeen maar op het echte werk van een heel team, met de drie meest tijdrovende taken live aangepakt? Dat is <a href=\"../aanbod/ai-op-jouw-afdeling.html\" style=\"color:var(--primary);font-weight:600\">1.2 AI op jouw afdeling</a>.</p></div></div></div></body></html>"
+      }
+    ]
+  },
+  "champion-pakket": {
+    "slug": "champion-pakket",
+    "backText": "Hoort bij Spoor 1.5 · AI-Champions",
+    "backHref": "../aanbod/ai-champions.html",
+    "title": "Het Champion-pakket",
+    "subtitle": "De interne prompt-bibliotheek, de rol van een champion, het ritme van check-ins, en hoe je een nieuwe champion inwerkt.",
+    "metaNote": "Deze oplevering woont in je klant-dashboard, met al je materialen op één plek.",
+    "sections": [
+      {
+        "eyebrow": "In één oogopslag",
+        "title": "De interne motor",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-stats\"><div class=\"vb-stat\"><div class=\"num\">2–4</div><div class=\"lbl\">champions die de motor worden</div></div><div class=\"vb-stat\"><div class=\"num\">wekelijks</div><div class=\"lbl\">korte check-in met collega's</div></div><div class=\"vb-stat\"><div class=\"num\">∞</div><div class=\"lbl\">een bibliotheek die blijft groeien</div></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "De kennisbank",
+        "title": "De interne prompt-bibliotheek",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>De champions bouwen en beheren een gedeelde bibliotheek van beproefde prompts, gecategoriseerd per gebruik. Een greep eruit.</p></div><div class=\"cat-h\">Communicatie</div><div class=\"vb-grid2\"><div class=\"vb-prompt\"><h4>Mail professioneel afronden</h4><div class=\"when\">Voor een nette, heldere mail.</div><div class=\"ptext\">Herschrijf deze mail professioneel en vriendelijk, behoud alle afspraken. [mail]</div></div><div class=\"vb-prompt\"><h4>Samenvatting voor de directie</h4><div class=\"when\">Lange stukken terugbrengen tot de kern.</div><div class=\"ptext\">Vat dit document samen in vijf bullets voor een directielid met weinig tijd. [stuk]</div></div></div><div class=\"cat-h\">Klant en sales</div><div class=\"vb-grid2\"><div class=\"vb-prompt\"><h4>Offerte op maat</h4><div class=\"when\">Snel een eerste offerte.</div><div class=\"ptext\">Maak een offerte voor [klant] in onze vaste structuur en toon. [punten]</div></div><div class=\"vb-prompt\"><h4>Bezwaar weerleggen</h4><div class=\"when\">Bij een twijfelende klant.</div><div class=\"ptext\">Geef drie heldere, eerlijke antwoorden op dit bezwaar van een klant. [bezwaar]</div></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "De rol",
+        "title": "De rol van een champion",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><ul class=\"vb-list\"><li><b>Eerste aanspreekpunt</b> voor collega's met vragen over AI.</li><li><b>Beheerder</b> van de prompt-bibliotheek.</li><li><b>Voorbeeld</b> op de eigen afdeling, laat zien hoe het werkt.</li><li><b>Brug</b> naar de directie over wat werkt en wat schuurt.</li></ul></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Het ritme",
+        "title": "Zo houden we het levend",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-grid2\"><div class=\"vb-task-card\"><h3>Wekelijkse check-in</h3><div class=\"vb-prose\"><p>Een kort moment van een half uur: welke vragen kwamen er, wat werkte goed, welke prompt verdient een plek in de bibliotheek.</p></div></div><div class=\"vb-task-card\"><h3>Maandelijkse update</h3><div class=\"vb-prose\"><p>Een terugblik op de adoptie, de nieuwe werkwijzen, en een blik vooruit. Kort gedeeld met de directie.</p></div></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Continuïteit",
+        "title": "Een nieuwe champion inwerken",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-num-list\"><div class=\"item\"><span class=\"n\"></span><p>Lees de rolbeschrijving en de spelregels door.</p></div><div class=\"item\"><span class=\"n\"></span><p>Loop een week mee met een bestaande champion.</p></div><div class=\"item\"><span class=\"n\"></span><p>Neem twee categorieën van de bibliotheek over als eigenaar.</p></div><div class=\"item\"><span class=\"n\"></span><p>Draai je eerste eigen check-in, met steun.</p></div><div class=\"item\"><span class=\"n\"></span><p>Sta na een maand zelfstandig als aanspreekpunt.</p></div></div></div></div></body></html>"
+      }
+    ]
+  },
+  "honderd-dagen-plan": {
+    "slug": "honderd-dagen-plan",
+    "backText": "Hoort bij Spoor 1.4 · AI voor de directie",
+    "backHref": "../aanbod/ai-voor-de-directie.html",
+    "title": "AI honderd-dagen-plan",
+    "subtitle": "De koers, drie prioriteiten, de tijdlijn van 30, 60 en 100 dagen, budget en meetpunten voor het MT.",
+    "metaNote": "Deze oplevering woont in je klant-dashboard, met al je materialen op één plek.",
+    "sections": [
+      {
+        "eyebrow": "In één oogopslag",
+        "title": "De kern van het plan",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-stats\"><div class=\"vb-stat\"><div class=\"num\">3</div><div class=\"lbl\">heldere prioriteiten voor dit kwartaal</div></div><div class=\"vb-stat\"><div class=\"num\">100</div><div class=\"lbl\">dagen, met ijkpunten op 30 en 60</div></div><div class=\"vb-stat\"><div class=\"num\">1</div><div class=\"lbl\">eigenaar per prioriteit, met budget</div></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "De richting",
+        "title": "De koers in één alinea",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>AI is voor ons geen experiment meer maar een manier van werken. De komende honderd dagen tillen we eerst de basis op de vloer, halen we de eerste zichtbare tijdwinst binnen op de plekken die ertoe doen, en zetten we de spelregels neer die het veilig houden. <b>Niet alles tegelijk, wel met richting.</b> We sturen op een paar concrete uitkomsten, niet op losse pilots.</p></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Focus",
+        "title": "De drie prioriteiten",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-grid3\"><div class=\"card\"><h3 style=\"font-size:1.15rem;margin-bottom:8px\">1. De vloer optillen</h3><p class=\"muted\" style=\"font-size:14.5px;line-height:1.5\">De grote middengroep leren slim werken met AI, zodat het normaal wordt in plaats van uitzondering.</p></div><div class=\"card\"><h3 style=\"font-size:1.15rem;margin-bottom:8px\">2. Eerste ROI op het werk</h3><p class=\"muted\" style=\"font-size:14.5px;line-height:1.5\">Eén afdeling de drie meest tijdrovende taken laten aanpakken, met meetbare tijdwinst.</p></div><div class=\"card\"><h3 style=\"font-size:1.15rem;margin-bottom:8px\">3. Veilig kader</h3><p class=\"muted\" style=\"font-size:14.5px;line-height:1.5\">Heldere spelregels rond data en privacy, zodat mensen durven zonder risico.</p></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Het ritme",
+        "title": "De tijdlijn, 30, 60 en 100 dagen",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-grid3\"><div class=\"vb-mile\"><div class=\"day\">Eerste 30 dagen</div><ul><li>Nulmeting afgerond en gedeeld met het MT.</li><li>Eerste teamsessie ingepland.</li><li>Concept-spelregels op tafel.</li></ul></div><div class=\"vb-mile\"><div class=\"day\">Tot 60 dagen</div><ul><li>Eerste afdeling werkt aantoonbaar sneller.</li><li>Champions aangewezen en gestart.</li><li>Spelregels vastgesteld en gedeeld.</li></ul></div><div class=\"vb-mile\"><div class=\"day\">Tot 100 dagen</div><ul><li>Brede vloer werkt dagelijks met AI.</li><li>Eerste resultaten zichtbaar in cijfers.</li><li>Plan voor het volgende kwartaal klaar.</li></ul></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Investering",
+        "title": "Budget-indicatie",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>Voor dit eerste kwartaal reserveren we een werkbudget voor de begeleiding, de sessies en een eerste bouwexperiment. <b>De richtlijn ligt rond een afgebakend kwartaalbedrag</b>, met een helder verband tussen uitgave en verwachte tijdwinst. We sturen op terugverdientijd, niet op uitgaven.</p></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Sturen",
+        "title": "Meetpunten en KPI's",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><ul class=\"vb-list\"><li><b>Adoptie:</b> aandeel medewerkers dat AI wekelijks gebruikt.</li><li><b>Tijdwinst:</b> bespaarde uren op de aangepakte taken.</li><li><b>Vertrouwen:</b> de houdingsscore uit de nulmeting, herhaald.</li><li><b>Output:</b> aantal werkende verbeteringen of prototypes.</li></ul></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Beleid",
+        "title": "Beleids-kernpunten",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><ul class=\"vb-list\"><li>Een mens beslist, AI adviseert. Altijd.</li><li>Gevoelige gegevens volgen de vastgestelde spelregels.</li><li>We delen wat werkt, intern en open.</li><li>Elk kwartaal evalueren en bijsturen.</li></ul></div></div></body></html>"
+      }
+    ]
+  },
+  "kwaliteitskaart": {
+    "slug": "kwaliteitskaart",
+    "backText": "Hoort bij Spoor 2.3 · Goed bouwen met AI",
+    "backHref": "../aanbod/goed-bouwen-met-ai.html",
+    "title": "Ontwerp- en kwaliteitskaart",
+    "subtitle": "De principes die we hanteerden, de checklist werkt versus deugt, je werk voor en na, en aandachtspunten.",
+    "metaNote": "Deze oplevering woont in je klant-dashboard, met al je materialen op één plek.",
+    "sections": [
+      {
+        "eyebrow": "In één oogopslag",
+        "title": "Van werkt naar deugt",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-stats\"><div class=\"vb-stat\"><div class=\"num\">5</div><div class=\"lbl\">principes die we hanteerden</div></div><div class=\"vb-stat\"><div class=\"num\">8</div><div class=\"lbl\">checkpunten langsgelopen</div></div><div class=\"vb-stat\"><div class=\"num\">3</div><div class=\"lbl\">concrete verbeteringen doorgevoerd</div></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "De basis",
+        "title": "De principes die we hanteerden",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><ul class=\"vb-list\"><li><b>Eén heldere rol:</b> wat is dit, en wat is het niet.</li><li><b>De juiste grenzen:</b> liever iets goed dan alles half.</li><li><b>De gebruiker als ijkpunt:</b> niet wat kan, maar wat helpt.</li><li><b>Eerlijke staat:</b> duidelijk wat af is en wat nog niet.</li><li><b>Onderhoudbaar:</b> begrijpelijk voor wie er na jou aan werkt.</li></ul></div></div></body></html>"
+      },
+      {
+        "eyebrow": "De toets",
+        "title": "Checklist, werkt versus deugt",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-check\"><div class=\"row\"><span class=\"k\">Doet wat het belooft<small>de kerntaak werkt betrouwbaar</small></span><span class=\"vb-status ok\">Op orde</span></div><div class=\"row\"><span class=\"k\">Begrijpelijk voor de gebruiker<small>zonder uitleg te bedienen</small></span><span class=\"vb-status ok\">Op orde</span></div><div class=\"row\"><span class=\"k\">Foutsituaties opgevangen<small>wat als er niets is, of te veel</small></span><span class=\"vb-status warn\">Aandacht</span></div><div class=\"row\"><span class=\"k\">Toon en taal kloppen<small>past bij je merk</small></span><span class=\"vb-status ok\">Op orde</span></div><div class=\"row\"><span class=\"k\">Onderhoudbaar opgezet<small>een ander kan verder</small></span><span class=\"vb-status warn\">Aandacht</span></div><div class=\"row\"><span class=\"k\">Geen overbodige franje<small>alleen wat helpt</small></span><span class=\"vb-status ok\">Op orde</span></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Het verschil",
+        "title": "Jouw werk, voor en na het aanscherpen",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-ba\"><div class=\"col\"><h4>Voor</h4><p>Een tool die alles probeerde te doen, met knoppen die zelden gebruikt werden en een onduidelijke eerste stap.</p></div><div class=\"col\"><h4>Na</h4><p>Eén heldere taak, een rustige eerste stap, en de randgevallen netjes opgevangen. Minder, maar beter.</p></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Vooruit",
+        "title": "Aandachtspunten voor de volgende keer",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><ul class=\"vb-list\"><li>Bouw foutsituaties vanaf het begin mee, niet achteraf.</li><li>Schrijf kort op waarom je iets weglaat, dat scheelt later.</li><li>Toets de eerste stap met iemand die het nog nooit zag.</li></ul></div></div></body></html>"
+      }
+    ]
+  },
+  "maandelijkse-voortgang": {
+    "slug": "maandelijkse-voortgang",
+    "backText": "Hoort bij Spoor 3.2 · Doorlopende begeleiding",
+    "backHref": "../aanbod/doorlopende-begeleiding.html",
+    "title": "Maandelijkse voortgang",
+    "subtitle": "De voortgang in cijfers, wat we deze maand deden, wat er aankomt, de openstaande punten, en hoe we het levend houden.",
+    "metaNote": "Deze oplevering woont in je klant-dashboard, met al je materialen op één plek.",
+    "sections": [
+      {
+        "eyebrow": "De cijfers",
+        "title": "De voortgang in cijfers",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-stats\"><div class=\"vb-stat\"><div class=\"num\">68%</div><div class=\"lbl\">van het team gebruikt AI nu wekelijks</div></div><div class=\"vb-stat\"><div class=\"num\">+9 u</div><div class=\"lbl\">geschatte tijdwinst deze maand</div></div><div class=\"vb-stat\"><div class=\"num\">2</div><div class=\"lbl\">nieuwe werkwijzen vastgelegd</div></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Terugblik",
+        "title": "Wat deden we deze maand",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><ul class=\"vb-list\"><li>Tweede afdeling gestart met een eigen playbook.</li><li>De prompt-bibliotheek uitgebreid met acht beproefde prompts.</li><li>Eerste versie van een interne kennisassistent getest.</li><li>Maandelijkse check-in met de twee champions.</li></ul></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Vooruit",
+        "title": "Wat staat er voor volgende maand",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><ul class=\"vb-list\"><li>De kennisassistent breder uitzetten na de test.</li><li>Een derde afdeling voorbereiden.</li><li>De spelregels licht herzien op basis van de praktijk.</li></ul></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Aandacht",
+        "title": "Openstaande punten",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-check\"><div class=\"row\"><span class=\"k\">Toegang nieuwe afdeling<small>accounts en rechten regelen</small></span><span class=\"vb-status warn\">Loopt</span></div><div class=\"row\"><span class=\"k\">Bewaartermijn data<small>vastleggen in de spelregels</small></span><span class=\"vb-status warn\">Te doen</span></div><div class=\"row\"><span class=\"k\">Champion-rooster<small>vakantieperiode opvangen</small></span><span class=\"vb-status ok\">Geregeld</span></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Tot slot",
+        "title": "Zo houden we het levend",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>Geen archief, maar een levende plek. Elke maand nemen we de balans op: waar staan we, wat werkte, en wat zetten we de komende maand. Zo blijft de beweging gaande, ook als de eerste energie wegzakt.</p></div></div></div></body></html>"
+      }
+    ]
+  },
+  "productie-readiness": {
+    "slug": "productie-readiness",
+    "backText": "Hoort bij Spoor 2.4 · Veilig bouwen met AI",
+    "backHref": "../aanbod/veilig-bouwen-met-ai.html",
+    "title": "Productie-readiness rapport",
+    "subtitle": "De stand van zaken per gebied met status, de risico's met hun mitigatie, en het heldere go of no-go advies.",
+    "metaNote": "Deze oplevering woont in je klant-dashboard, met al je materialen op één plek.",
+    "sections": [
+      {
+        "eyebrow": "In één oogopslag",
+        "title": "Het oordeel",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-stats\"><div class=\"vb-stat\"><div class=\"num\">Go</div><div class=\"lbl\">met een paar voorwaarden vooraf</div></div><div class=\"vb-stat\"><div class=\"num\">4</div><div class=\"lbl\">gebieden langsgelopen</div></div><div class=\"vb-stat\"><div class=\"num\">2</div><div class=\"lbl\">risico's met een heldere mitigatie</div></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "De situatie",
+        "title": "De stand van zaken",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>Het prototype overtuigt en de kern werkt. Voor de stap naar productie zijn vier gebieden langsgelopen: data, privacy, betrouwbaarheid en governance. Het meeste staat, op twee punten na die we eerst regelen.</p></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Per gebied",
+        "title": "Checklist per gebied",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-check\"><div class=\"row\"><span class=\"k\">Data<small>waar staat het, wie kan erbij</small></span><span class=\"vb-status ok\">Op orde</span></div><div class=\"row\"><span class=\"k\">Privacy<small>persoonsgegevens en bewaartermijn</small></span><span class=\"vb-status warn\">Te regelen</span></div><div class=\"row\"><span class=\"k\">Betrouwbaarheid<small>wat als het even uitvalt</small></span><span class=\"vb-status ok\">Op orde</span></div><div class=\"row\"><span class=\"k\">Governance<small>wie is eigenaar en beslist</small></span><span class=\"vb-status warn\">Te regelen</span></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "De risico's",
+        "title": "Risico's en hun mitigatie",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-grid2\"><div class=\"vb-task-card\"><h3 style=\"font-size:1.05rem\">Onduidelijke bewaartermijn</h3><div class=\"vb-prose\"><p><b>Mitigatie:</b> stel een termijn vast en ruim automatisch op. Leg vast in de spelregels.</p></div></div><div class=\"vb-task-card\"><h3 style=\"font-size:1.05rem\">Geen vaste eigenaar</h3><div class=\"vb-prose\"><p><b>Mitigatie:</b> wijs één eigenaar aan die beslist over wijzigingen en toegang.</p></div></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "De conclusie",
+        "title": "Het advies",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-task-card\" style=\"display:flex;flex-direction:column;gap:14px\"><div style=\"display:flex;align-items:center;gap:12px\"><span class=\"vb-status ok\" style=\"font-size:14px;padding:7px 16px\">Go, met voorwaarden</span></div><div class=\"vb-prose\"><p>Live zetten kan, zodra de bewaartermijn is vastgelegd en er een eigenaar is aangewezen. De rest staat. Begin klein, met een beperkte groep, en schaal op zodra het stabiel draait.</p></div></div></div></div></body></html>"
+      }
+    ]
+  },
+  "prototype-oplevering": {
+    "slug": "prototype-oplevering",
+    "backText": "Hoort bij Spoor 2.1 · Van idee naar prototype",
+    "backHref": "../aanbod/van-idee-naar-prototype.html",
+    "title": "Jouw prototype, opgeleverd",
+    "subtitle": "Een live link naar je werkende prototype, een blik op wat het doet, en de bouw-lus die je leerde om het opnieuw te doen.",
+    "metaNote": "Deze oplevering woont in je klant-dashboard, met al je materialen op één plek.",
+    "sections": [
+      {
+        "eyebrow": "In één oogopslag",
+        "title": "Wat er ligt",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-stats\"><div class=\"vb-stat\"><div class=\"num\">1</div><div class=\"lbl\">werkend, klikbaar prototype van je eigen idee</div></div><div class=\"vb-stat\"><div class=\"num\">5</div><div class=\"lbl\">stappen in de bouw-lus die je leerde</div></div><div class=\"vb-stat\"><div class=\"num\">vrij</div><div class=\"lbl\">te gebruiken, te tonen en door te bouwen</div></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Live",
+        "title": "Open het prototype",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-live\"><span class=\"dot-live\"></span><div style=\"flex:1;min-width:200px\"><div style=\"font-weight:700;color:var(--ink)\">Het prototype draait</div><div class=\"muted\" style=\"font-size:14px\">Klikbaar, op een eigen link, klaar om te tonen.</div></div><a class=\"btn btn-primary\" href=\"#\" target=\"_blank\" rel=\"noopener\">Open het prototype <span class=\"arr\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M5 12h14M13 6l6 6-6 6\"></path></svg></span></a></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Beeld",
+        "title": "Een blik op het prototype",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"imgph\" style=\"aspect-ratio:16/9;box-shadow:var(--shadow-md)\"><img class=\"imgph-img\" src=\"../assets/img/S2_prototype_oplevering.png\" alt=\"\" loading=\"lazy\"><span class=\"imgph-label\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\"><rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"></rect><path d=\"m3 16 5-5 4 4 3-3 6 6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>Screenshot: het opgeleverde prototype</span></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Functie",
+        "title": "Wat het doet",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><ul class=\"vb-list\"><li>Lost de kern van je idee op, niet meer en niet minder.</li><li>Genoeg af om te tonen aan collega's of klanten.</li><li>Gebouwd om snel te testen, niet om productie te zijn.</li><li>Eenvoudig aan te passen als je richting verandert.</li></ul></div></div></body></html>"
+      },
+      {
+        "eyebrow": "De methode",
+        "title": "De bouw-lus die je leerde",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-num-list\"><div class=\"item\"><span class=\"n\"></span><p><b>Scherp stellen:</b> wat is precies de vraag of het idee.</p></div><div class=\"item\"><span class=\"n\"></span><p><b>Klein bouwen:</b> het kleinste ding dat de vraag beantwoordt.</p></div><div class=\"item\"><span class=\"n\"></span><p><b>Tonen:</b> aan een echte gebruiker, en kijken wat er gebeurt.</p></div><div class=\"item\"><span class=\"n\"></span><p><b>Leren:</b> wat klopt, wat niet, wat mist.</p></div><div class=\"item\"><span class=\"n\"></span><p><b>Bijstellen:</b> doorgaan, aanpassen of bewust stoppen.</p></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Verder",
+        "title": "Volgende stap, toetsen of doorbouwen",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>Wil je zeker weten of het idee hout snijdt voordat je investeert? Dat is <a href=\"../aanbod/toets-je-idee.html\" style=\"color:var(--primary);font-weight:600\">2.2 Toets je idee</a>. Wil je het laten doorbouwen tot iets serieus? Kijk naar de <a href=\"../aanbod/prototype-sprint.html\" style=\"color:var(--primary);font-weight:600\">3.1 Prototype-sprint</a>.</p></div></div></div></body></html>"
+      }
+    ]
+  },
+  "sprint-oplevering": {
+    "slug": "sprint-oplevering",
+    "backText": "Hoort bij Spoor 3.1 · Prototype-sprint",
+    "backHref": "../aanbod/prototype-sprint.html",
+    "title": "Sprint-oplevering",
+    "subtitle": "Wat is gebouwd met een live link en beeld, hoe je het gebruikt, het eerlijke oordeel, en je opties voor vervolg.",
+    "metaNote": "Deze oplevering woont in je klant-dashboard, met al je materialen op één plek.",
+    "sections": [
+      {
+        "eyebrow": "In één oogopslag",
+        "title": "De oplevering",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-stats\"><div class=\"vb-stat\"><div class=\"num\">5 dagen</div><div class=\"lbl\">van idee naar werkend product</div></div><div class=\"vb-stat\"><div class=\"num\">1</div><div class=\"lbl\">werkend, klikbaar resultaat</div></div><div class=\"vb-stat\"><div class=\"num\">vrij</div><div class=\"lbl\">te gebruiken, door te bouwen of weg te gooien</div></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Het product",
+        "title": "Wat is gebouwd",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>Een werkend prototype van een facturatie-hulp: aanvragen komen binnen, worden automatisch gestructureerd, en je krijgt een concept-factuur die je alleen nog controleert. Genoeg af om mee te werken en te tonen.</p></div><div class=\"vb-live\" style=\"margin-top:18px\"><span class=\"dot-live\"></span><div style=\"flex:1;min-width:200px\"><div style=\"font-weight:700;color:var(--ink)\">De oplevering draait</div><div class=\"muted\" style=\"font-size:14px\">Op een eigen link, klaar om te tonen aan je team.</div></div><a class=\"btn btn-primary\" href=\"#\" target=\"_blank\" rel=\"noopener\">Open de oplevering <span class=\"arr\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M5 12h14M13 6l6 6-6 6\"></path></svg></span></a></div><div class=\"imgph\" style=\"aspect-ratio:16/9;margin-top:18px;box-shadow:var(--shadow-md)\"><img class=\"imgph-img\" src=\"../assets/img/S4_sprint_oplevering.png\" alt=\"\" loading=\"lazy\"><span class=\"imgph-label\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\"><rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"></rect><path d=\"m3 16 5-5 4 4 3-3 6 6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>Screenshot: de opgeleverde tool</span></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Gebruik",
+        "title": "Hoe je het gebruikt",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-num-list\"><div class=\"item\"><span class=\"n\"></span><p>Open de link en log in met de gedeelde toegang.</p></div><div class=\"item\"><span class=\"n\"></span><p>Voer een aanvraag in, of plak een bestaande.</p></div><div class=\"item\"><span class=\"n\"></span><p>Controleer de gegenereerde concept-factuur.</p></div><div class=\"item\"><span class=\"n\"></span><p>Pas aan waar nodig en exporteer.</p></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Eerlijk",
+        "title": "Het eerlijke oordeel",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-ba\"><div class=\"col\"><h4>Kansen</h4><p>Scheelt direct tijd op een vervelende klus, en de structuur is makkelijk uit te breiden naar meer documenttypes.</p></div><div class=\"col\"><h4>Risico's</h4><p>Voor echte productie moeten de koppeling met je boekhouding en de foutafhandeling nog gebouwd worden.</p></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Vervolg",
+        "title": "Opties voor vervolg",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-grid3\"><div class=\"card\"><h3 style=\"font-size:1.1rem;margin-bottom:8px\">In productie</h3><p class=\"muted\" style=\"font-size:14.5px;line-height:1.5\">Doorpakken met een readiness-check en de koppelingen erbij.</p></div><div class=\"card\"><h3 style=\"font-size:1.1rem;margin-bottom:8px\">Doorbouwen</h3><p class=\"muted\" style=\"font-size:14.5px;line-height:1.5\">Stap voor stap uitbreiden met doorlopende begeleiding.</p></div><div class=\"card\"><h3 style=\"font-size:1.1rem;margin-bottom:8px\">Stoppen</h3><p class=\"muted\" style=\"font-size:14.5px;line-height:1.5\">Ook prima. Je weet nu snel en goedkoop wat het waard is.</p></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Eigendom",
+        "title": "Wat je vrij mag gebruiken",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>Het gebouwde is van jou. Je mag het in productie nemen, laten doorbouwen, of als interne demo gebruiken. Geen verborgen afhankelijkheid, geen vendor lock-in.</p></div></div></div></body></html>"
+      }
+    ]
+  },
+  "validatie-rapport": {
+    "slug": "validatie-rapport",
+    "backText": "Hoort bij Spoor 2.2 · Toets je idee",
+    "backHref": "../aanbod/toets-je-idee.html",
+    "title": "Validatie-rapport",
+    "subtitle": "De aanname die we toetsten, wat we bouwden, wie het testte, wat er gebeurde, en het eerlijke advies voor de volgende stap.",
+    "metaNote": "Deze oplevering woont in je klant-dashboard, met al je materialen op één plek.",
+    "sections": [
+      {
+        "eyebrow": "In één oogopslag",
+        "title": "De uitkomst",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-stats\"><div class=\"vb-stat\"><div class=\"num\">Bijstellen</div><div class=\"lbl\">de aanname klopte deels, met een duidelijke richting</div></div><div class=\"vb-stat\"><div class=\"num\">5</div><div class=\"lbl\">echte gebruikers getest</div></div><div class=\"vb-stat\"><div class=\"num\">½ dag</div><div class=\"lbl\">van aanname naar antwoord</div></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Het vertrekpunt",
+        "title": "De aanname die we toetsten",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"oplevert\" style=\"border-top-color:var(--accent)\"><p class=\"bridge-q\" style=\"font-family:var(--font-display);font-style:italic;font-size:clamp(1.3rem,2.2vw,1.7rem);color:var(--ink);line-height:1.35;max-width:34ch\">\"Klanten willen hun offerte-aanvraag liever zelf online samenstellen dan via een mail heen en weer.\"</p></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "De toets",
+        "title": "Wat we bouwden om het te toetsen",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>Het kleinste ding dat de vraag beantwoordt: een klikbaar formulier in een paar stappen, met een directe samenvatting aan het eind. Geen achterkant, geen koppelingen, alleen genoeg om echt gedrag te zien.</p></div><div class=\"imgph\" style=\"aspect-ratio:16/9;margin-top:20px;box-shadow:var(--shadow-md)\"><img class=\"imgph-img\" src=\"../assets/img/S3_validatie_rapport.png\" alt=\"\" loading=\"lazy\"><span class=\"imgph-label\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\"><rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"></rect><path d=\"m3 16 5-5 4 4 3-3 6 6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>Screenshot: het geteste prototype</span></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "De test",
+        "title": "Wie het testte en hoe",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><ul class=\"vb-list\"><li>Vijf bestaande klanten, een dwarsdoorsnede van groot en klein.</li><li>Elk kreeg een echte aanvraag-situatie, zonder uitleg vooraf.</li><li>We keken mee en stelden alleen vragen achteraf.</li></ul></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Observaties",
+        "title": "Wat er gebeurde",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><ul class=\"vb-list\"><li>Vier van de vijf liepen het formulier zonder hulp af.</li><li>De stap met de prijsopbouw riep de meeste twijfel op.</li><li>Drie zeiden expliciet dit prettiger te vinden dan mailen.</li><li>Eén miste de persoonlijke toets en wilde toch even bellen.</li></ul></div></div></body></html>"
+      },
+      {
+        "eyebrow": "De conclusie",
+        "title": "De uitkomst",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-task-card\" style=\"display:flex;flex-direction:column;gap:14px\"><div style=\"display:flex;align-items:center;gap:12px\"><span class=\"vb-status warn\" style=\"font-size:14px;padding:7px 16px\">Bijstellen</span></div><div class=\"vb-prose\"><p>De richting klopt: klanten willen zelf samenstellen. Maar de prijsstap moet eenvoudiger, en er moet een duidelijke route naar persoonlijk contact in. Met die twee aanpassingen is dit het doorbouwen waard.</p></div></div></div></div></body></html>"
+      },
+      {
+        "eyebrow": "Verder",
+        "title": "Advies voor de volgende stap",
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>Pas de prijsstap aan en voeg een zichtbare \"liever even bellen\"-route toe. Test dat opnieuw met drie klanten. Klopt het dan, dan is dit een mooie kandidaat voor een <a href=\"../aanbod/prototype-sprint.html\" style=\"color:var(--primary);font-weight:600\">3.1 Prototype-sprint</a> om het echt te bouwen.</p></div></div></div></body></html>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1048 @@
+{
+  "ai-champions": {
+    "slug": "ai-champions",
+    "title": "AI-Champions",
+    "subtitle": "Een interne motor die blijft draaien als ik weg ben.",
+    "spoorText": "Spoor 1.5 · Werken met AI",
+    "spoorClass": "spoor-pill k-human",
+    "isLosBoekbaar": true,
+    "imageSrc": "../assets/img/10_1_aanbod_groep.png",
+    "imageAlt": "Dusty in actie tijdens de sessie",
+    "imageLabel": "Foto: Dusty in actie tijdens deze sessie · liggend, breed",
+    "oplevert": [
+      "De adoptie draagt zichzelf",
+      "Een groeiende interne kennisbank",
+      "Geen terugval als ik weg ben",
+      "Eigenaarschap in huis"
+    ],
+    "probleem": "Als de verandering aan een externe hangt, stopt hij zodra die vertrekt. Eenmalige workshops zakken weg, en de organisatie valt terug in oude gewoontes.",
+    "watHetIs": "Een doorlopend traject van een paar sessies waarin je koplopers de motor worden: ze bouwen de interne prompt-bibliotheek en worden het eerste aanspreekpunt. Train-the-trainer.",
+    "quote": "“Een blijvende verandering hangt niet aan mij, maar aan je eigen mensen.”",
+    "voorWie": "De koplopers die de nulmeting naar voren haalt.",
+    "watJeKrijgt": [
+      "Een kleine groep getrainde ambassadeurs",
+      "Een interne kennisbank die blijft groeien",
+      "Een organisatie die zichzelf voortbeweegt",
+      "Materiaal om zelf mee te trainen"
+    ],
+    "agenda": [
+      {
+        "time": "Sessie 1",
+        "body": "De rol van champion en de prompt-bibliotheek beginnen"
+      },
+      {
+        "time": "Sessie 2",
+        "body": "Lesgeven aan collega’s"
+      },
+      {
+        "time": "Sessie 3",
+        "body": "Eerste aanspreekpunt worden"
+      },
+      {
+        "time": "Daarna",
+        "body": "Korte doorlopende check-ins"
+      }
+    ],
+    "praktijk": {
+      "title": "Voorbeeld uit de praktijk",
+      "text": "Drie interne champions die collega’s wekelijks verder helpen, met een bibliotheek van beproefde prompts."
+    },
+    "anders": {
+      "title": "Wat het anders maakt",
+      "text": "Dit is het verschil tussen een leuke workshop en een blijvende verschuiving."
+    },
+    "bookCard": {
+      "price": "€5.500",
+      "unit": "excl. btw · een doorlopend traject",
+      "standalone": "Dit onderdeel staat op zichzelf. Je hoeft geen heel traject af te nemen, je kunt hier ook los mee starten.",
+      "reassure": "Liever eerst overleggen?Plan een kort gesprek.",
+      "pdfLink": "../downloads/ai-champions.pdf"
+    },
+    "example": {
+      "title": "Bekijk een voorbeeld van wat je krijgt",
+      "name": "Het Champion-pakket",
+      "desc": "Het Champion-pakketDe prompt-bibliotheek, de rol van een champion, en het ritme van check-ins.",
+      "link": "../voorbeelden/champion-pakket.html"
+    },
+    "faqs": [
+      {
+        "q": "Hoeveel champions?",
+        "a": "Klein, twee tot vier."
+      },
+      {
+        "q": "Kost dit veel van hun tijd?",
+        "a": "Een paar sessies plus een lichte rol."
+      },
+      {
+        "q": "Wat als een champion vertrekt?",
+        "a": "De bibliotheek en werkwijze blijven, en je leidt eenvoudig een nieuwe op."
+      }
+    ],
+    "crossSells": [
+      {
+        "href": "ai-op-jouw-afdeling.html",
+        "step": "1.2",
+        "title": "AI op jouw afdeling",
+        "desc": "Waar zij op oefenen."
+      },
+      {
+        "href": "doorlopende-begeleiding.html",
+        "step": "3.2",
+        "title": "Doorlopende begeleiding",
+        "desc": "Steun terwijl ze groeien."
+      }
+    ]
+  },
+  "ai-op-jouw-afdeling": {
+    "slug": "ai-op-jouw-afdeling",
+    "title": "AI op jouw afdeling",
+    "subtitle": "AI losgelaten op de maandagochtend van jouw team.",
+    "spoorText": "Spoor 1.2 · Werken met AI",
+    "spoorClass": "spoor-pill k-human",
+    "isLosBoekbaar": true,
+    "imageSrc": "../assets/img/10_1_aanbod_groep.png",
+    "imageAlt": "Dusty in actie tijdens de sessie",
+    "imageLabel": "Foto: Dusty in actie tijdens deze sessie · liggend, breed",
+    "oplevert": [
+      "Direct zichtbare tijdwinst op echt werk",
+      "Kant-en-klare werkwijzen",
+      "Het team voelt het meteen",
+      "Een blauwdruk voor de volgende taak"
+    ],
+    "probleem": "Generieke AI-training landt niet, want ze gaat over AI in het algemeen en niet over de offerte die elke week te lang duurt. Teams haken af zodra ze het niet terugzien in hun eigen werk.",
+    "watHetIs": "Een dagdeel voor één team, waarin we vooraf de drie meest tijdrovende of irritante taken kiezen en die live met AI aanpakken, met hun echte workflows erbij.",
+    "quote": "“AI in het algemeen verandert niets. AI op jullie maandagochtend verandert alles.”",
+    "voorWie": "Eén team of functie per keer: sales, finance, marketing, HR of operatie.",
+    "watJeKrijgt": [
+      "Kant-en-klare werkwijzen voor de gekozen taken",
+      "De methode om de volgende zelf te vinden",
+      "Zichtbare tijdwinst",
+      "Werkafspraken voor de afdeling"
+    ],
+    "agenda": [
+      {
+        "time": "0:00",
+        "body": "De maandagochtend van dit team"
+      },
+      {
+        "time": "0:30",
+        "body": "Taak één live"
+      },
+      {
+        "time": "1:30",
+        "body": "Taak twee zelf"
+      },
+      {
+        "time": "2:30",
+        "body": "Taak drie en het patroon eruit"
+      },
+      {
+        "time": "3:00",
+        "body": "Vastleggen als werkwijzen"
+      }
+    ],
+    "praktijk": {
+      "title": "Voorbeeld uit de praktijk",
+      "text": "Een salesteam dat offertes en opvolgmails halveerde in tijd, met dezelfde kwaliteit."
+    },
+    "anders": {
+      "title": "Wat het anders maakt",
+      "text": "Hier landt de ROI, direct zichtbaar in het eigen werk, niet in een abstract voorbeeld."
+    },
+    "bookCard": {
+      "price": "€1.650",
+      "unit": "excl. btw · een dagdeel per afdeling",
+      "standalone": "Dit onderdeel staat op zichzelf. Je hoeft geen heel traject af te nemen, je kunt hier ook los mee starten.",
+      "reassure": "Liever eerst overleggen?Plan een kort gesprek.",
+      "pdfLink": "../downloads/ai-op-jouw-afdeling.pdf"
+    },
+    "example": {
+      "title": "Bekijk een voorbeeld van wat je krijgt",
+      "name": "Afdelings-playbook",
+      "desc": "Afdelings-playbookDe drie aangepakte taken met oude en nieuwe werkwijze, de prompts en de tijdwinst.",
+      "link": "../voorbeelden/afdelings-playbook.html"
+    },
+    "faqs": [
+      {
+        "q": "Werkt dit voor elke afdeling?",
+        "a": "Ja, dezelfde aanpak, andere voorbeelden."
+      },
+      {
+        "q": "Hebben we eerst de basis nodig?",
+        "a": "Handig, maar bij een vlotte afdeling kunnen we direct."
+      },
+      {
+        "q": "Onze workflows zijn complex, kan dat?",
+        "a": "Juist dan, want we werken met de echte, niet met voorbeelden."
+      }
+    ],
+    "crossSells": [
+      {
+        "href": "slim-werken-met-ai.html",
+        "step": "1.1",
+        "title": "Slim werken met AI",
+        "desc": "De basis eerst."
+      },
+      {
+        "href": "prototype-sprint.html",
+        "step": "3.1",
+        "title": "Prototype-sprint",
+        "desc": "Laat mij de tool bouwen die jullie nodig hebben."
+      }
+    ]
+  },
+  "ai-voor-de-directie": {
+    "slug": "ai-voor-de-directie",
+    "title": "AI voor de directie",
+    "subtitle": "De beweging leiden, in plaats van ondergaan.",
+    "spoorText": "Spoor 1.4 · Werken met AI",
+    "spoorClass": "spoor-pill k-human",
+    "isLosBoekbaar": true,
+    "imageSrc": "../assets/img/10_1_aanbod_groep.png",
+    "imageAlt": "Dusty in actie tijdens de sessie",
+    "imageLabel": "Foto: Dusty in actie tijdens deze sessie · liggend, breed",
+    "oplevert": [
+      "Een heldere koers in plaats van losse experimenten",
+      "Een honderd-dagen-plan",
+      "Grip op budget en effect",
+      "Je loopt voor in je markt"
+    ],
+    "probleem": "Zonder richting aan de top wordt AI een verzameling losse experimenten die nergens optellen. Adoptie strandt waar leiderschap ontbreekt.",
+    "watHetIs": "Een dagdeel voor het management waarin we kijken waar AI staat in jullie markt, hoe je de beweging stuurt, en hoe je beleid, budget en meetpunten neerzet.",
+    "quote": "“Je kunt de AI-golf ondergaan of leiden. Het verschil wordt aan de top gemaakt.”",
+    "voorWie": "Directie en leidinggevenden.",
+    "watJeKrijgt": [
+      "Een richting",
+      "Een manier om te sturen",
+      "Een eerste honderd-dagen-plan",
+      "Beleid, budget en meetpunten"
+    ],
+    "agenda": [
+      {
+        "time": "0:00",
+        "body": "Waar staat AI in jullie markt"
+      },
+      {
+        "time": "0:45",
+        "body": "Van losse experimenten naar één richting"
+      },
+      {
+        "time": "1:30",
+        "body": "Beleid, budget en meten"
+      },
+      {
+        "time": "2:30",
+        "body": "Een eerste honderd-dagen-plan"
+      }
+    ],
+    "praktijk": {
+      "title": "Voorbeeld uit de praktijk",
+      "text": "Een MT dat na een dagdeel wist welke drie stappen het dit kwartaal zet, en wat het mag kosten."
+    },
+    "anders": {
+      "title": "Wat het anders maakt",
+      "text": "Geen techverhaal, een directiegesprek. Over keuzes, geld en tempo, in jullie taal."
+    },
+    "bookCard": {
+      "price": "€1.950",
+      "unit": "excl. btw · een dagdeel of reeks korte sessies",
+      "standalone": "Dit onderdeel staat op zichzelf. Je hoeft geen heel traject af te nemen, je kunt hier ook los mee starten.",
+      "reassure": "Liever eerst overleggen?Plan een kort gesprek.",
+      "pdfLink": "../downloads/ai-voor-de-directie.pdf"
+    },
+    "example": {
+      "title": "Bekijk een voorbeeld van wat je krijgt",
+      "name": "AI honderd-dagen-plan",
+      "desc": "AI honderd-dagen-planDe koers, de drie prioriteiten, de tijdlijn en de meetpunten.",
+      "link": "../voorbeelden/honderd-dagen-plan.html"
+    },
+    "faqs": [
+      {
+        "q": "Moeten wij technisch zijn?",
+        "a": "Nee, het gaat over keuzes en sturing."
+      },
+      {
+        "q": "Krijgen we iets tastbaars?",
+        "a": "Ja, een honderd-dagen-plan."
+      },
+      {
+        "q": "Hoe verhoudt dit zich tot de uitvoering?",
+        "a": "Dit stuurt; de afdelingssessies en AI-Champions voeren uit."
+      }
+    ],
+    "crossSells": [
+      {
+        "href": "ai-champions.html",
+        "step": "1.5",
+        "title": "AI-Champions",
+        "desc": "De uitvoering eronder."
+      },
+      {
+        "href": "veilig-met-ai.html",
+        "step": "1.3",
+        "title": "Veilig met AI",
+        "desc": "Beleid en spelregels."
+      }
+    ]
+  },
+  "doorlopende-begeleiding": {
+    "slug": "doorlopende-begeleiding",
+    "title": "Doorlopende begeleiding",
+    "subtitle": "Een vaste hand die meegroeit, zonder vast dienstverband.",
+    "spoorText": "Spoor 3.2 · Maakservice",
+    "spoorClass": "spoor-pill k-automate",
+    "isLosBoekbaar": true,
+    "imageSrc": "../assets/img/10_2_aanbod_bouwen.png",
+    "imageAlt": "Dusty in actie tijdens de sessie",
+    "imageLabel": "Foto: Dusty in actie tijdens deze sessie · liggend, breed",
+    "oplevert": [
+      "Blijvend momentum",
+      "Een vaste hand zonder vast contract",
+      "Hulp die meegroeit",
+      "Geen terugval na de start"
+    ],
+    "probleem": "Verandering zakt weg zonder onderhoud. Na de eerste energie van een traject valt het zonder steun stil.",
+    "watHetIs": "Maandelijkse begeleiding: sparren, bijsturen, en bijbouwen waar nodig.",
+    "quote": "“Momentum is geen moment, het is onderhoud.”",
+    "voorWie": "Organisaties die na een traject of sprint het momentum willen vasthouden.",
+    "watJeKrijgt": [
+      "Blijvend momentum",
+      "Een vast aanspreekpunt",
+      "Hulp die meebeweegt met waar je staat",
+      "Flexibel op- en afschalen"
+    ],
+    "agenda": [
+      {
+        "time": "Maandelijks",
+        "body": "Vaste sessies"
+      },
+      {
+        "time": "Tussendoor",
+        "body": "Sparren waar nodig"
+      },
+      {
+        "time": "Doorlopend",
+        "body": "Bijbouwen en reviewen"
+      },
+      {
+        "time": "Altijd",
+        "body": "Een vast aanspreekpunt"
+      }
+    ],
+    "praktijk": {
+      "title": "Voorbeeld uit de praktijk",
+      "text": "Een organisatie die maand na maand een stap zette, in plaats van na de kickoff stil te vallen."
+    },
+    "anders": {
+      "title": "Wat het anders maakt",
+      "text": "Geen log contract, gewoon de juiste hulp op het juiste moment, opzegbaar."
+    },
+    "bookCard": {
+      "price": "€1.500 tot €3.000per maand,",
+      "unit": "per maand, excl. btw · opzegbaar",
+      "standalone": "Dit onderdeel staat op zichzelf. Je hoeft geen heel traject af te nemen, je kunt hier ook los mee starten.",
+      "reassure": "Liever eerst overleggen?Plan een kort gesprek.",
+      "pdfLink": "../downloads/doorlopende-begeleiding.pdf"
+    },
+    "example": {
+      "title": "Bekijk een voorbeeld van wat je krijgt",
+      "name": "Maandelijkse voortgang",
+      "desc": "Maandelijkse voortgangDe voortgang in cijfers, wat er deze maand gebeurde, en wat er aankomt.",
+      "link": "../voorbeelden/maandelijkse-voortgang.html"
+    },
+    "faqs": [
+      {
+        "q": "Zit ik ergens aan vast?",
+        "a": "Nee, maandelijks opzegbaar."
+      },
+      {
+        "q": "Wat doen we per maand?",
+        "a": "Wat nodig is: sparren, bijsturen of bouwen."
+      },
+      {
+        "q": "Voor wie is dit te vroeg?",
+        "a": "Het is het sterkst na een traject of een sprint."
+      }
+    ],
+    "crossSells": [
+      {
+        "href": "prototype-sprint.html",
+        "step": "3.1",
+        "title": "Prototype-sprint",
+        "desc": "Bouwkracht erbij."
+      },
+      {
+        "href": "ai-champions.html",
+        "step": "1.5",
+        "title": "AI-Champions",
+        "desc": "Interne motor."
+      }
+    ]
+  },
+  "goed-bouwen-met-ai": {
+    "slug": "goed-bouwen-met-ai",
+    "title": "Goed bouwen met AI",
+    "subtitle": "Het verschil tussen iets dat werkt en iets dat deugt.",
+    "spoorText": "Spoor 2.3 · Bouwen met AI",
+    "spoorClass": "spoor-pill k-agent",
+    "isLosBoekbaar": true,
+    "imageSrc": "../assets/img/10_2_aanbod_bouwen.png",
+    "imageAlt": "Dusty in actie tijdens de sessie",
+    "imageLabel": "Foto: Dusty in actie tijdens deze sessie · liggend, breed",
+    "oplevert": [
+      "Werk dat niet alleen werkt maar deugt",
+      "Minder herbouw achteraf",
+      "Kwaliteit die klanten zien",
+      "Een scherper ontwerpoog"
+    ],
+    "probleem": "AI maakt het makkelijk om snel iets te bouwen, en daarmee ook makkelijk om snel het verkeerde te bouwen.",
+    "watHetIs": "Een dagdeel over de discipline eronder: een heldere rol voor wat je maakt, de juiste grenzen, en de gebruiker als ijkpunt.",
+    "quote": "“AI bouwt wat je vraagt. Ontwerp bepaalt of je het juiste vraagt.”",
+    "voorWie": "Bouwers en makers die al kunnen, en beter willen worden.",
+    "watJeKrijgt": [
+      "Oog voor kwaliteit",
+      "De principes om het juiste te bouwen",
+      "Onderhoudbaar en uitbreidbaar werk",
+      "Reviews op je eigen werk"
+    ],
+    "agenda": [
+      {
+        "time": "0:00",
+        "body": "Het probleem: snel het verkeerde bouwen"
+      },
+      {
+        "time": "0:45",
+        "body": "Een heldere rol en de juiste grenzen"
+      },
+      {
+        "time": "1:30",
+        "body": "De gebruiker als ijkpunt"
+      },
+      {
+        "time": "2:30",
+        "body": "Eigen werk aanscherpen"
+      }
+    ],
+    "praktijk": {
+      "title": "Voorbeeld uit de praktijk",
+      "text": "Een maker die van losse experimenten naar doordachte, bruikbare tools ging."
+    },
+    "anders": {
+      "title": "Wat het anders maakt",
+      "text": "Dit is de ontwerplaag die bijna geen enkele AI-cursus aanraakt, en precies waar twaalf jaar ontwerp het verschil maakt."
+    },
+    "bookCard": {
+      "price": "€1.650",
+      "unit": "excl. btw · een dagdeel",
+      "standalone": "Dit onderdeel staat op zichzelf. Je hoeft geen heel traject af te nemen, je kunt hier ook los mee starten.",
+      "reassure": "Liever eerst overleggen?Plan een kort gesprek.",
+      "pdfLink": "../downloads/goed-bouwen-met-ai.pdf"
+    },
+    "example": {
+      "title": "Bekijk een voorbeeld van wat je krijgt",
+      "name": "Ontwerp- en kwaliteitskaart",
+      "desc": "Ontwerp- en kwaliteitskaartDe principes, de checklist werkt versus deugt, en je werk voor en na.",
+      "link": "../voorbeelden/kwaliteitskaart.html"
+    },
+    "faqs": [
+      {
+        "q": "Is dit te gevorderd voor ons?",
+        "a": "Als je nog niet bouwt, begin bij Van idee naar prototype."
+      },
+      {
+        "q": "Is het tool-specifiek?",
+        "a": "Nee, de principes gelden over tools heen."
+      },
+      {
+        "q": "Werkt dit ook voor niet-ontwerpers?",
+        "a": "Ja, het maakt iedereen die bouwt scherper."
+      }
+    ],
+    "crossSells": [
+      {
+        "href": "veilig-bouwen-met-ai.html",
+        "step": "2.4",
+        "title": "Veilig bouwen met AI",
+        "desc": "Van goed naar productie-veilig."
+      },
+      {
+        "href": "van-idee-naar-prototype.html",
+        "step": "2.1",
+        "title": "Van idee naar prototype",
+        "desc": "De oefenstof."
+      }
+    ]
+  },
+  "prototype-sprint": {
+    "slug": "prototype-sprint",
+    "title": "Prototype-sprint",
+    "subtitle": "Jij hebt het idee, ik maak het met je, in dagen niet maanden.",
+    "spoorText": "Spoor 3.1 · Maakservice",
+    "spoorClass": "spoor-pill k-automate",
+    "isLosBoekbaar": true,
+    "imageSrc": "../assets/img/10_2_aanbod_bouwen.png",
+    "imageAlt": "Dusty in actie tijdens de sessie",
+    "imageLabel": "Foto: Dusty in actie tijdens deze sessie · liggend, breed",
+    "oplevert": [
+      "Van praatje naar prototype in dagen",
+      "Bewijs voor stakeholders of financiering",
+      "Een fractie van een bureauprijs",
+      "Vrij te gebruiken resultaat"
+    ],
+    "probleem": "Soms wil je niet leren bouwen, je wilt het gemaakt hebben. Snel, om te testen, of om mensen te overtuigen voordat je groot investeert.",
+    "watHetIs": "Een korte sprint waarin we samen een werkend prototype neerzetten. Denk aan een accountantskantoor dat een idee voor een facturatiesysteem wil aftasten.",
+    "quote": "“Van praatje naar prototype, en dat in dagen in plaats van maanden.”",
+    "voorWie": "Organisaties met een concreet idee dat tastbaar moet worden, of buy-in nodig heeft.",
+    "watJeKrijgt": [
+      "Een werkend prototype dat je vrij gebruikt",
+      "Een eerlijk oordeel of het idee hout snijdt",
+      "Overdracht zodat je verder kunt",
+      "Een tastbaar resultaat aan het eind"
+    ],
+    "agenda": [
+      {
+        "time": "Dag 1, ochtend",
+        "body": "Het idee scherp krijgen"
+      },
+      {
+        "time": "Dag 1, middag",
+        "body": "Samen bouwen, eerste werkende beeld"
+      },
+      {
+        "time": "Tussendagen",
+        "body": "Aanscherpen en echt maken"
+      },
+      {
+        "time": "Slot",
+        "body": "Oplevering en eerlijk oordeel"
+      }
+    ],
+    "praktijk": {
+      "title": "Voorbeeld uit de praktijk",
+      "text": "Een idee dat in een week een klikbaar prototype werd waarmee de directie groen licht gaf voor de bouw."
+    },
+    "anders": {
+      "title": "Wat het anders maakt",
+      "text": "Een design sprint bij een bureau kost al snel boven de tien mille. Ik doe het solo met AI, voor een fractie, zonder kwaliteit in te leveren."
+    },
+    "bookCard": {
+      "price": "€3.500 tot €7.500",
+      "unit": "excl. btw · projectbasis",
+      "standalone": "Dit onderdeel staat op zichzelf. Je hoeft geen heel traject af te nemen, je kunt hier ook los mee starten.",
+      "reassure": "Liever eerst overleggen?Plan een kort gesprek.",
+      "pdfLink": "../downloads/prototype-sprint.pdf"
+    },
+    "example": {
+      "title": "Bekijk een voorbeeld van wat je krijgt",
+      "name": "Sprint-oplevering",
+      "desc": "Sprint-opleveringWat is gebouwd met link en beeld, het eerlijke oordeel, en je opties voor vervolg.",
+      "link": "../voorbeelden/sprint-oplevering.html"
+    },
+    "faqs": [
+      {
+        "q": "Wat als het idee niet blijkt te kloppen?",
+        "a": "Dan weet je dat snel en goedkoop."
+      },
+      {
+        "q": "Krijgen we het gebouwde mee?",
+        "a": "Ja, vrij te gebruiken."
+      },
+      {
+        "q": "Hoe lang duurt het?",
+        "a": "Eén dag tot een korte sprint, afhankelijk van de omvang."
+      }
+    ],
+    "crossSells": [
+      {
+        "href": "doorlopende-begeleiding.html",
+        "step": "3.2",
+        "title": "Doorlopende begeleiding",
+        "desc": "Samen doorbouwen."
+      },
+      {
+        "href": "toets-je-idee.html",
+        "step": "2.2",
+        "title": "Toets je idee",
+        "desc": "Eerst valideren."
+      }
+    ]
+  },
+  "slim-werken-met-ai": {
+    "slug": "slim-werken-met-ai",
+    "title": "Slim werken met AI",
+    "subtitle": "De basis voor je hele team, sneller en slimmer, met vertrouwen.",
+    "spoorText": "Spoor 1.1 · Werken met AI",
+    "spoorClass": "spoor-pill k-human",
+    "isLosBoekbaar": true,
+    "imageSrc": "../assets/img/10_1_aanbod_groep.png",
+    "imageAlt": "Dusty in actie tijdens de sessie",
+    "imageLabel": "Foto: Dusty in actie tijdens deze sessie · liggend, breed",
+    "oplevert": [
+      "Je hele middengroep beweegt, niet alleen de voorlopers",
+      "Uren per week terug, bij iedereen",
+      "Effect dat blijft hangen",
+      "Je team kan zelf verder"
+    ],
+    "probleem": "Je team hoort overal over AI, maar in de praktijk gebruikt bijna niemand het echt. De tools zijn er, de tijd niet, en de eerste keer dat het tegenvalt haakt men af.",
+    "watHetIs": "Een dagdeel waarin je hele team de basis onder de knie krijgt: AI inzetten voor de dagelijkse taken, met goede prompts, en met genoeg vertrouwen om het maandag meteen te gebruiken.",
+    "quote": "“Niet ‘AI is de toekomst’, maar ‘dit scheelt mij vanmiddag een uur’.”",
+    "voorWie": "Iedereen die dagelijks met tekst, mail en documenten werkt. Geen voorkennis nodig.",
+    "watJeKrijgt": [
+      "Praktische sessie van een dagdeel",
+      "Direct toepasbare werkvormen",
+      "Eigen bevindingenpagina als naslag",
+      "Een gedeelde set afspraken om mee te starten"
+    ],
+    "agenda": [
+      {
+        "time": "0:00",
+        "body": "Kennismaking en nulbeeld"
+      },
+      {
+        "time": "0:30",
+        "body": "De basis van slim werken"
+      },
+      {
+        "time": "1:30",
+        "body": "Aan de slag met eigen werk"
+      },
+      {
+        "time": "2:30",
+        "body": "Afspraken en vervolg"
+      }
+    ],
+    "praktijk": {
+      "title": "Voorbeeld uit de praktijk",
+      "text": "Een team dat na één dagdeel mail, samenvattingen en eerste concepten standaard met AI doet, en er dagelijks tijd mee wint."
+    },
+    "anders": {
+      "title": "Wat het anders maakt",
+      "text": "Geen algemene AI-cursus, maar de basis toegepast op jullie eigen maandagochtend. Daardoor blijft het hangen."
+    },
+    "bookCard": {
+      "price": "€1.450",
+      "unit": "excl. btw · één dagdeel",
+      "standalone": "Dit onderdeel staat op zichzelf. Je hoeft geen heel traject af te nemen, je kunt hier ook los mee starten.",
+      "reassure": "Liever eerst overleggen?Plan een kort gesprek.",
+      "pdfLink": "../downloads/slim-werken-met-ai.pdf"
+    },
+    "example": {
+      "title": "Bekijk een voorbeeld van wat je krijgt",
+      "name": "Jouw AI-startkit",
+      "desc": "Jouw AI-startkitDe promptset per deelnemer, de do's en don'ts, en je eerste tijdsbespaarder.",
+      "link": "../voorbeelden/ai-startkit.html"
+    },
+    "faqs": [
+      {
+        "q": "Hebben we voorkennis nodig?",
+        "a": "Nee, we beginnen bij nul en werken met jullie eigen taken."
+      },
+      {
+        "q": "Werkt dit voor een gemengd team?",
+        "a": "Juist, iedereen werkt op zijn eigen niveau aan echt werk."
+      },
+      {
+        "q": "Wat hebben we erna?",
+        "a": "Werkvormen, afspraken en een naslagpagina om zelf door te gaan."
+      }
+    ],
+    "crossSells": [
+      {
+        "href": "ai-op-jouw-afdeling.html",
+        "step": "1.2",
+        "title": "AI op jouw afdeling",
+        "desc": "De volgende stap, op het echte werk."
+      },
+      {
+        "href": "veilig-met-ai.html",
+        "step": "1.3",
+        "title": "Veilig met AI",
+        "desc": "De spelregels eromheen."
+      }
+    ]
+  },
+  "toets-je-idee": {
+    "slug": "toets-je-idee",
+    "title": "Toets je idee",
+    "subtitle": "Stop met gokken, laat de werkelijkheid antwoorden.",
+    "spoorText": "Spoor 2.2 · Bouwen met AI",
+    "spoorClass": "spoor-pill k-agent",
+    "isLosBoekbaar": true,
+    "imageSrc": "../assets/img/10_2_aanbod_bouwen.png",
+    "imageAlt": "Dusty in actie tijdens de sessie",
+    "imageLabel": "Foto: Dusty in actie tijdens deze sessie · liggend, breed",
+    "oplevert": [
+      "Zekerheid voordat je investeert",
+      "Een helder ja of nee",
+      "Dure misstappen voorkomen",
+      "Stoppen met gokken"
+    ],
+    "probleem": "De meeste mensen bouwen te veel en testen te laat. Daardoor gaat budget naar ideeën die niemand wilde.",
+    "watHetIs": "Een dagdeel waarin we het kleinste ding bouwen dat je aanname beantwoordt, het voor een echte gebruiker zetten, en lezen wat er gebeurt.",
+    "quote": "“Een prototype is geen mini-product, het is een vraag aan de werkelijkheid.”",
+    "voorWie": "Teams die vaak nieuwe dingen overwegen en zekerheid willen voordat ze investeren.",
+    "watJeKrijgt": [
+      "Een manier om ideeën goedkoop te toetsen",
+      "Een helder ja of nee",
+      "Risico’s en aannames helder",
+      "Een scherpere richting"
+    ],
+    "agenda": [
+      {
+        "time": "0:00",
+        "body": "Een prototype is een vraag"
+      },
+      {
+        "time": "0:30",
+        "body": "De aanname scherp krijgen"
+      },
+      {
+        "time": "1:00",
+        "body": "Het kleinste ding bouwen"
+      },
+      {
+        "time": "2:00",
+        "body": "Voor een echte gebruiker zetten"
+      },
+      {
+        "time": "3:00",
+        "body": "Doorgaan of stoppen"
+      }
+    ],
+    "praktijk": {
+      "title": "Voorbeeld uit de praktijk",
+      "text": "Een idee dat na een halve dag toetsen werd bijgesteld, en daarmee een dure misstap voorkwam."
+    },
+    "anders": {
+      "title": "Wat het anders maakt",
+      "text": "Hier verdient mijn UX-achtergrond zich terug, want goed toetsen is een vak."
+    },
+    "bookCard": {
+      "price": "€1.450",
+      "unit": "excl. btw · een dagdeel",
+      "standalone": "Dit onderdeel staat op zichzelf. Je hoeft geen heel traject af te nemen, je kunt hier ook los mee starten.",
+      "reassure": "Liever eerst overleggen?Plan een kort gesprek.",
+      "pdfLink": "../downloads/toets-je-idee.pdf"
+    },
+    "example": {
+      "title": "Bekijk een voorbeeld van wat je krijgt",
+      "name": "Validatie-rapport",
+      "desc": "Validatie-rapportDe getoetste aanname, de observaties, en de uitkomst met advies.",
+      "link": "../voorbeelden/validatie-rapport.html"
+    },
+    "faqs": [
+      {
+        "q": "Hebben we al een prototype nodig?",
+        "a": "Sterkst na Van idee naar prototype, maar niet verplicht."
+      },
+      {
+        "q": "Wat als de test negatief is?",
+        "a": "Dat is succes, je bespaarde maanden."
+      },
+      {
+        "q": "Hoeveel gebruikers?",
+        "a": "Een paar echte zijn genoeg voor richting."
+      }
+    ],
+    "crossSells": [
+      {
+        "href": "van-idee-naar-prototype.html",
+        "step": "2.1",
+        "title": "Van idee naar prototype",
+        "desc": "Eerst bouwen."
+      },
+      {
+        "href": "goed-bouwen-met-ai.html",
+        "step": "2.3",
+        "title": "Goed bouwen met AI",
+        "desc": "En het goed doen."
+      }
+    ]
+  },
+  "van-idee-naar-prototype": {
+    "slug": "van-idee-naar-prototype",
+    "title": "Van idee naar prototype",
+    "subtitle": "Een idee dat op de plank ligt, vandaag werkend op tafel.",
+    "spoorText": "Spoor 2.1 · Bouwen met AI",
+    "spoorClass": "spoor-pill k-agent",
+    "isLosBoekbaar": true,
+    "imageSrc": "../assets/img/10_2_aanbod_bouwen.png",
+    "imageAlt": "Dusty in actie tijdens de sessie",
+    "imageLabel": "Foto: Dusty in actie tijdens deze sessie · liggend, breed",
+    "oplevert": [
+      "Een werkend prototype van je eigen idee",
+      "De durf om te proberen",
+      "Maanden bespaard op ontwikkeling",
+      "Iets tastbaars om te tonen"
+    ],
+    "probleem": "De meeste goede ideeën sterven omdat ze te duur of te ver weg voelen, of omdat er simpelweg geen weg is om ze te testen.",
+    "watHetIs": "Het vlaggenschip. De groep brengt een echt idee in, en we bouwen het live tot iets dat draait en dat je kunt aanklikken. Onderweg leer ik ze de lus die ik zelf elke dag draai.",
+    "quote": "“Van ‘kan dit eigenlijk wel’ naar ‘laten we het gewoon in een uur uitproberen’.”",
+    "voorWie": "Product-, innovatie-, marketing- en ontwerpmensen, en iedereen met ideeën maar geen weg om ze te testen.",
+    "watJeKrijgt": [
+      "Een werkend prototype van het eigen idee",
+      "De methode om het opnieuw te doen zonder mij",
+      "Een basis om op door te bouwen",
+      "Concreet beeld van wat kan"
+    ],
+    "agenda": [
+      {
+        "time": "0:00",
+        "body": "De bouw-lus uitgelegd"
+      },
+      {
+        "time": "0:30",
+        "body": "Eén idee live tot iets werkends"
+      },
+      {
+        "time": "1:45",
+        "body": "Nu zij, ieder aan het eigen idee"
+      },
+      {
+        "time": "3:30",
+        "body": "Tonen en kort testen"
+      },
+      {
+        "time": "4:30",
+        "body": "Zelf opnieuw doen"
+      }
+    ],
+    "praktijk": {
+      "title": "Voorbeeld uit de praktijk",
+      "text": "Een team dat met een vaag idee binnenkwam en met een klikbaar prototype naar buiten liep."
+    },
+    "anders": {
+      "title": "Wat het anders maakt",
+      "text": "Omdat ik zelf bouw, leer ik ze de echte lus, niet de theorie. De durf-schakel is wat blijft hangen."
+    },
+    "bookCard": {
+      "price": "€1.950",
+      "unit": "excl. btw · een dagdeel tot een hele dag",
+      "standalone": "Dit onderdeel staat op zichzelf. Je hoeft geen heel traject af te nemen, je kunt hier ook los mee starten.",
+      "reassure": "Liever eerst overleggen?Plan een kort gesprek.",
+      "pdfLink": "../downloads/van-idee-naar-prototype.pdf"
+    },
+    "example": {
+      "title": "Bekijk een voorbeeld van wat je krijgt",
+      "name": "Jouw prototype, opgeleverd",
+      "desc": "Jouw prototype, opgeleverdDe live link, wat het doet, en de bouw-lus in vijf stappen.",
+      "link": "../voorbeelden/prototype-oplevering.html"
+    },
+    "faqs": [
+      {
+        "q": "Moeten we kunnen programmeren?",
+        "a": "Nee."
+      },
+      {
+        "q": "Wat als ons idee niet werkt?",
+        "a": "Dan weet je dat in uren in plaats van maanden, ook winst."
+      },
+      {
+        "q": "Krijgen we iets bruikbaars mee?",
+        "a": "Ja, een werkend prototype van je eigen idee."
+      }
+    ],
+    "crossSells": [
+      {
+        "href": "toets-je-idee.html",
+        "step": "2.2",
+        "title": "Toets je idee",
+        "desc": "Toets wat je bouwde."
+      },
+      {
+        "href": "prototype-sprint.html",
+        "step": "3.1",
+        "title": "Prototype-sprint",
+        "desc": "Laat mij het bouwen."
+      }
+    ]
+  },
+  "veilig-bouwen-met-ai": {
+    "slug": "veilig-bouwen-met-ai",
+    "title": "Veilig bouwen met AI",
+    "subtitle": "Werkend is niet hetzelfde als klaar voor productie.",
+    "spoorText": "Spoor 2.4 · Bouwen met AI",
+    "spoorClass": "spoor-pill k-agent",
+    "isLosBoekbaar": true,
+    "imageSrc": "../assets/img/10_2_aanbod_bouwen.png",
+    "imageAlt": "Dusty in actie tijdens de sessie",
+    "imageLabel": "Foto: Dusty in actie tijdens deze sessie · liggend, breed",
+    "oplevert": [
+      "Met vertrouwen naar productie",
+      "Geen verrassingen achteraf",
+      "Privacy en betrouwbaarheid op orde",
+      "Een heldere checklist"
+    ],
+    "probleem": "Een prototype overtuigt, maar het de wereld in sturen vraagt meer. Daar gaan dingen mis als je de afstand onderschat.",
+    "watHetIs": "Een dagdeel over precies die afstand: wat je wel en niet live zet, datalekken en privacy in wat je bouwt, betrouwbaarheid, en de governance over je eigen creaties.",
+    "quote": "“Een prototype is een belofte. Productie is een verantwoordelijkheid.”",
+    "voorWie": "Teams en bouwers die van prototype naar iets serieus willen.",
+    "watJeKrijgt": [
+      "Een helder beeld van wat productie-ready betekent",
+      "Een checklist van grenzen en risico’s",
+      "Security- en privacy-principes",
+      "Governance die in de praktijk werkt"
+    ],
+    "agenda": [
+      {
+        "time": "0:00",
+        "body": "Werkend is niet productie-ready"
+      },
+      {
+        "time": "0:45",
+        "body": "Wat je wel en niet live zet"
+      },
+      {
+        "time": "1:30",
+        "body": "Data, privacy en betrouwbaarheid"
+      },
+      {
+        "time": "2:30",
+        "body": "Een checklist voor je creaties"
+      }
+    ],
+    "praktijk": {
+      "title": "Voorbeeld uit de praktijk",
+      "text": "Een team dat een veelbelovend prototype veilig en bewust naar productie bracht."
+    },
+    "anders": {
+      "title": "Wat het anders maakt",
+      "text": "Eerlijkheid over de grens. Ik laat zien wat een prototype wel en niet is, zodat je niet voor verrassingen komt te staan."
+    },
+    "bookCard": {
+      "price": "€1.650",
+      "unit": "excl. btw · een dagdeel",
+      "standalone": "Dit onderdeel staat op zichzelf. Je hoeft geen heel traject af te nemen, je kunt hier ook los mee starten.",
+      "reassure": "Liever eerst overleggen?Plan een kort gesprek.",
+      "pdfLink": "../downloads/veilig-bouwen-met-ai.pdf"
+    },
+    "example": {
+      "title": "Bekijk een voorbeeld van wat je krijgt",
+      "name": "Productie-readiness rapport",
+      "desc": "Productie-readiness rapportDe checklist per gebied met status, de risico's en het go of no-go advies.",
+      "link": "../voorbeelden/productie-readiness.html"
+    },
+    "faqs": [
+      {
+        "q": "Is dit voor ons te vroeg?",
+        "a": "Pas nuttig als je iets gebouwd hebt of live wilt zetten."
+      },
+      {
+        "q": "Vervangt dit een security-audit?",
+        "a": "Nee, het maakt je bewust en voorbereid."
+      },
+      {
+        "q": "Hoort dit bij een sprint?",
+        "a": "Het kan, maar staat ook los."
+      }
+    ],
+    "crossSells": [
+      {
+        "href": "goed-bouwen-met-ai.html",
+        "step": "2.3",
+        "title": "Goed bouwen met AI",
+        "desc": "De kwaliteit eronder."
+      },
+      {
+        "href": "doorlopende-begeleiding.html",
+        "step": "3.2",
+        "title": "Doorlopende begeleiding",
+        "desc": "Een vaste hand bij de uitrol."
+      }
+    ]
+  },
+  "veilig-met-ai": {
+    "slug": "veilig-met-ai",
+    "title": "Veilig met AI",
+    "subtitle": "Heldere spelregels, zodat AI vrijheid geeft in plaats van angst.",
+    "spoorText": "Spoor 1.3 · Werken met AI",
+    "spoorClass": "spoor-pill k-human",
+    "isLosBoekbaar": true,
+    "imageSrc": "../assets/img/10_1_aanbod_groep.png",
+    "imageAlt": "Dusty in actie tijdens de sessie",
+    "imageLabel": "Foto: Dusty in actie tijdens deze sessie · liggend, breed",
+    "oplevert": [
+      "Mensen durven, de grenzen zijn helder",
+      "Geen angst voor datalekken",
+      "Een licht reglement dat blijft werken",
+      "Veiligheid vanaf dag één"
+    ],
+    "probleem": "De grootste rem op AI is geen onkunde, het is onzekerheid over wat mag met klant- en bedrijfsgegevens. Zolang dat onduidelijk is, durft niemand, of gebruikt men juist stiekem en onveilig.",
+    "watHetIs": "Een kort dagdeel waarin we de guardrails neerzetten: wat mag de tool in, hoe ga je om met data, en een werkbaar gevoel voor de AVG en de EU AI Act, zonder juridische lezing.",
+    "quote": "“Spelregels remmen niet, ze geven juist de vrijheid om te durven.”",
+    "voorWie": "De hele organisatie, plus apart wie met gevoelige data werkt.",
+    "watJeKrijgt": [
+      "Een licht en helder AI-spelregels-sjabloon op maat",
+      "Duidelijke grenzen",
+      "Minder koudwatervrees",
+      "Een korte, deelbare richtlijn"
+    ],
+    "agenda": [
+      {
+        "time": "0:00",
+        "body": "Waarom spelregels vrijheid geven"
+      },
+      {
+        "time": "0:30",
+        "body": "Wat mag wel en niet de tool in"
+      },
+      {
+        "time": "1:15",
+        "body": "AVG en EU AI Act werkbaar gemaakt"
+      },
+      {
+        "time": "2:00",
+        "body": "Samen een licht huisreglement opstellen"
+      }
+    ],
+    "praktijk": {
+      "title": "Voorbeeld uit de praktijk",
+      "text": "Een kantoor dat klantgegevens verwerkt en nu met een gerust hart AI inzet, binnen duidelijke kaders."
+    },
+    "anders": {
+      "title": "Wat het anders maakt",
+      "text": "Veiligheid loopt vanaf dag één mee in plaats van achteraf als rem, en het verlaagt precies de angst die de nulmeting meet."
+    },
+    "bookCard": {
+      "price": "€1.250",
+      "unit": "excl. btw · een kort dagdeel",
+      "standalone": "Dit onderdeel staat op zichzelf. Je hoeft geen heel traject af te nemen, je kunt hier ook los mee starten.",
+      "reassure": "Liever eerst overleggen?Plan een kort gesprek.",
+      "pdfLink": "../downloads/veilig-met-ai.pdf"
+    },
+    "example": {
+      "title": "Bekijk een voorbeeld van wat je krijgt",
+      "name": "Jullie AI-spelregels",
+      "desc": "Jullie AI-spelregelsDe groene en rode lijst, omgaan met gegevens, en AVG werkbaar gemaakt.",
+      "link": "../voorbeelden/ai-spelregels.html"
+    },
+    "faqs": [
+      {
+        "q": "Wordt dit een juridische lezing?",
+        "a": "Nee, werkbaar en licht."
+      },
+      {
+        "q": "Moeten we onze tools al gekozen hebben?",
+        "a": "Niet per se, de principes gelden breed."
+      },
+      {
+        "q": "Is dit overdreven voor een klein bedrijf?",
+        "a": "Juist een klein bedrijf wil geen datalek. Dit is verzekering voor weinig."
+      }
+    ],
+    "crossSells": [
+      {
+        "href": "slim-werken-met-ai.html",
+        "step": "1.1",
+        "title": "Slim werken met AI",
+        "desc": "Vaardigheid en veiligheid samen."
+      },
+      {
+        "href": "ai-voor-de-directie.html",
+        "step": "1.4",
+        "title": "AI voor de directie",
+        "desc": "Beleid aan de top."
+      }
+    ]
+  }
+}
