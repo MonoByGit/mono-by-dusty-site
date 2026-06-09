@@ -1,5 +1,5 @@
 import { MetadataRoute } from "next";
-import { packages, paden } from "@/data/content";
+import { packages, paden, voorbeelden } from "@/data/content";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://monobydusty.com";
@@ -36,5 +36,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
-  return [...staticPages, ...packagePages, ...pathPages];
+  // Dynamic example pages
+  const examplePages = Object.keys(voorbeelden).map((slug) => ({
+    url: `${baseUrl}/voorbeelden/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: "monthly" as const,
+    priority: 0.5,
+  }));
+
+  return [...staticPages, ...packagePages, ...pathPages, ...examplePages];
 }

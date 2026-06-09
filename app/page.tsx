@@ -573,6 +573,39 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* JSON-LD Structured Data */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "ProfessionalService",
+            "name": "Mono by Dusty",
+            "image": "https://monobydusty.com/assets/og-image.png",
+            "@id": "https://monobydusty.com/#organization",
+            "url": "https://monobydusty.com",
+            "telephone": "+31600000000",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Amsterdam",
+              "addressCountry": "NL"
+            },
+            "priceRange": "$$",
+            "description": "AI voor ondernemers. Nulmeting, workshops en werkende prototypes voor het MKB. Door Dusty Baars.",
+            "founder": {
+              "@type": "Person",
+              "name": "Dusty Baars",
+              "jobTitle": "AI Consultant & Developer",
+              "url": "https://www.dustybaars.com"
+            },
+            "sameAs": [
+              "https://www.linkedin.com/in/dustybaars/",
+              "https://www.dustybaars.com"
+            ]
+          })
+        }}
+      />
     </main>
   );
 }

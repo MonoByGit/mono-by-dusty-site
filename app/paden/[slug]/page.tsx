@@ -385,6 +385,51 @@ export default async function PathPage({ params }: PageProps) {
           </div>
         </div>
       </section>
+
+      {/* JSON-LD Service & FAQ Structured Data */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Service",
+                "serviceType": pathDetail.spoorText,
+                "provider": {
+                  "@type": "LocalBusiness",
+                  "name": "Mono by Dusty",
+                  "url": "https://monobydusty.com"
+                },
+                "name": pathDetail.title,
+                "description": pathDetail.subtitle,
+                "offers": {
+                  "@type": "Offer",
+                  "priceCurrency": "EUR",
+                  "price": pathDetail.bookCard.price.replace(/[^0-9]/g, ""),
+                  "priceSpecification": {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/MinimumPrice",
+                    "priceCurrency": "EUR",
+                    "price": pathDetail.bookCard.price.replace(/[^0-9]/g, "")
+                  }
+                }
+              },
+              ...(pathDetail.faqs && pathDetail.faqs.length > 0 ? [{
+                "@type": "FAQPage",
+                "mainEntity": pathDetail.faqs.map(faq => ({
+                  "@type": "Question",
+                  "name": faq.q,
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": faq.a
+                  }
+                }))
+              }] : [])
+            ]
+          })
+        }}
+      />
     </main>
   );
 }

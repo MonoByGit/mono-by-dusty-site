@@ -435,6 +435,51 @@ export default async function PackagePage({ params }: PageProps) {
           </div>
         </div>
       </section>
+
+      {/* JSON-LD Service & FAQ Structured Data */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Service",
+                "serviceType": pkg.spoorText,
+                "provider": {
+                  "@type": "LocalBusiness",
+                  "name": "Mono by Dusty",
+                  "url": "https://monobydusty.com"
+                },
+                "name": pkg.title,
+                "description": pkg.subtitle,
+                "offers": {
+                  "@type": "Offer",
+                  "priceCurrency": "EUR",
+                  "price": pkg.bookCard.price.replace(/[^0-9]/g, ""),
+                  "priceSpecification": {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/MinimumPrice",
+                    "priceCurrency": "EUR",
+                    "price": pkg.bookCard.price.replace(/[^0-9]/g, "")
+                  }
+                }
+              },
+              ...(pkg.faqs && pkg.faqs.length > 0 ? [{
+                "@type": "FAQPage",
+                "mainEntity": pkg.faqs.map(faq => ({
+                  "@type": "Question",
+                  "name": faq.q,
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": faq.a
+                  }
+                }))
+              }] : [])
+            ]
+          })
+        }}
+      />
     </main>
   );
 }

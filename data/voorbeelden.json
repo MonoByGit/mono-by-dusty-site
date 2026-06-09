@@ -2,7 +2,7 @@
   "afdelings-playbook": {
     "slug": "afdelings-playbook",
     "backText": "Hoort bij Spoor 1.2 · AI op jouw afdeling",
-    "backHref": "../aanbod/ai-op-jouw-afdeling.html",
+    "backHref": "/aanbod/ai-op-jouw-afdeling",
     "title": "Afdelings-playbook",
     "subtitle": "De drie taken die we samen aanpakten, met de oude en nieuwe werkwijze, de prompts en de tijdwinst per taak.",
     "metaNote": "Deze oplevering woont in je klant-dashboard, met al je materialen op één plek.",
@@ -100,7 +100,7 @@
       {
         "eyebrow": "Verder",
         "title": "De volgende stap",
-        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>Wil je dit niet algemeen maar op het echte werk van een heel team, met de drie meest tijdrovende taken live aangepakt? Dat is <a href=\"../aanbod/ai-op-jouw-afdeling.html\" style=\"color:var(--primary);font-weight:600\">1.2 AI op jouw afdeling</a>.</p></div></div></div></body></html>"
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>Wil je dit niet algemeen maar op het echte werk van een heel team, met de drie meest tijdrovende taken live aangepakt? Dat is <a href=\"/aanbod/ai-op-jouw-afdeling\" style=\"color:var(--primary);font-weight:600\">1.2 AI op jouw afdeling</a>.</p></div></div></div></body></html>"
       }
     ]
   },
@@ -310,7 +310,7 @@
       {
         "eyebrow": "Beeld",
         "title": "Een blik op het prototype",
-        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"imgph\" style=\"aspect-ratio:16/9;box-shadow:var(--shadow-md)\"><img class=\"imgph-img\" src=\"../assets/img/S2_prototype_oplevering.png\" alt=\"\" loading=\"lazy\"><span class=\"imgph-label\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\"><rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"></rect><path d=\"m3 16 5-5 4 4 3-3 6 6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>Screenshot: het opgeleverde prototype</span></div></div></div></body></html>"
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"imgph\" style=\"aspect-ratio:16/9;box-shadow:var(--shadow-md)\"><img class=\"imgph-img\" src=\"/assets/img/S2_prototype_oplevering.png\" alt=\"Sfeerbeeld: Het dashboard van het opgeleverde AI-prototype met data-integraties en statistieken van de AI-Nulmeting\" loading=\"lazy\"><span class=\"imgph-label\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\"><rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"></rect><path d=\"m3 16 5-5 4 4 3-3 6 6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>Screenshot: het opgeleverde prototype</span></div></div></div></body></html>"
       },
       {
         "eyebrow": "Functie",
@@ -325,14 +325,14 @@
       {
         "eyebrow": "Verder",
         "title": "Volgende stap, toetsen of doorbouwen",
-        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>Wil je zeker weten of het idee hout snijdt voordat je investeert? Dat is <a href=\"../aanbod/toets-je-idee.html\" style=\"color:var(--primary);font-weight:600\">2.2 Toets je idee</a>. Wil je het laten doorbouwen tot iets serieus? Kijk naar de <a href=\"../aanbod/prototype-sprint.html\" style=\"color:var(--primary);font-weight:600\">3.1 Prototype-sprint</a>.</p></div></div></div></body></html>"
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>Wil je zeker weten of het idee hout snijdt voordat je investeert? Dat is <a href=\"/aanbod/toets-je-idee\" style=\"color:var(--primary);font-weight:600\">2.2 Toets je idee</a>. Wil je het laten doorbouwen tot iets serieus? Kijk naar de <a href=\"/aanbod/prototype-sprint\" style=\"color:var(--primary);font-weight:600\">3.1 Prototype-sprint</a>.</p></div></div></div></body></html>"
       }
     ]
   },
   "sprint-oplevering": {
     "slug": "sprint-oplevering",
     "backText": "Hoort bij Spoor 3.1 · Prototype-sprint",
-    "backHref": "../aanbod/prototype-sprint.html",
+    "backHref": "/aanbod/prototype-sprint",
     "title": "Sprint-oplevering",
     "subtitle": "Wat is gebouwd met een live link en beeld, hoe je het gebruikt, het eerlijke oordeel, en je opties voor vervolg.",
     "metaNote": "Deze oplevering woont in je klant-dashboard, met al je materialen op één plek.",
@@ -345,7 +345,7 @@
       {
         "eyebrow": "Het product",
         "title": "Wat is gebouwd",
-        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>Een werkend prototype van een facturatie-hulp: aanvragen komen binnen, worden automatisch gestructureerd, en je krijgt een concept-factuur die je alleen nog controleert. Genoeg af om mee te werken en te tonen.</p></div><div class=\"vb-live\" style=\"margin-top:18px\"><span class=\"dot-live\"></span><div style=\"flex:1;min-width:200px\"><div style=\"font-weight:700;color:var(--ink)\">De oplevering draait</div><div class=\"muted\" style=\"font-size:14px\">Op een eigen link, klaar om te tonen aan je team.</div></div><a class=\"btn btn-primary\" href=\"#\" target=\"_blank\" rel=\"noopener\">Open de oplevering <span class=\"arr\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M5 12h14M13 6l6 6-6 6\"></path></svg></span></a></div><div class=\"imgph\" style=\"aspect-ratio:16/9;margin-top:18px;box-shadow:var(--shadow-md)\"><img class=\"imgph-img\" src=\"../assets/img/S4_sprint_oplevering.png\" alt=\"\" loading=\"lazy\"><span class=\"imgph-label\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\"><rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"></rect><path d=\"m3 16 5-5 4 4 3-3 6 6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>Screenshot: de opgeleverde tool</span></div></div></div></body></html>"
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>Een werkend prototype van een facturatie-hulp: aanvragen komen binnen, worden automatisch gestructureerd, en je krijgt een concept-factuur die je alleen nog controleert. Genoeg af om mee te werken en te tonen.</p></div><div class=\"vb-live\" style=\"margin-top:18px\"><span class=\"dot-live\"></span><div style=\"flex:1;min-width:200px\"><div style=\"font-weight:700;color:var(--ink)\">De oplevering draait</div><div class=\"muted\" style=\"font-size:14px\">Op een eigen link, klaar om te tonen aan je team.</div></div><a class=\"btn btn-primary\" href=\"#\" target=\"_blank\" rel=\"noopener\">Open de oplevering <span class=\"arr\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M5 12h14M13 6l6 6-6 6\"></path></svg></span></a></div><div class=\"imgph\" style=\"aspect-ratio:16/9;margin-top:18px;box-shadow:var(--shadow-md)\"><img class=\"imgph-img\" src=\"/assets/img/S4_sprint_oplevering.png\" alt=\"Sfeerbeeld: De interface van de opgeleverde AI-tool tijdens een sprint-demonstratie waarin de facturatie-hulp live te zien is\" loading=\"lazy\"><span class=\"imgph-label\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\"><rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"></rect><path d=\"m3 16 5-5 4 4 3-3 6 6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>Screenshot: de opgeleverde tool</span></div></div></div></body></html>"
       },
       {
         "eyebrow": "Gebruik",
@@ -372,7 +372,7 @@
   "validatie-rapport": {
     "slug": "validatie-rapport",
     "backText": "Hoort bij Spoor 2.2 · Toets je idee",
-    "backHref": "../aanbod/toets-je-idee.html",
+    "backHref": "/aanbod/toets-je-idee",
     "title": "Validatie-rapport",
     "subtitle": "De aanname die we toetsten, wat we bouwden, wie het testte, wat er gebeurde, en het eerlijke advies voor de volgende stap.",
     "metaNote": "Deze oplevering woont in je klant-dashboard, met al je materialen op één plek.",
@@ -390,7 +390,7 @@
       {
         "eyebrow": "De toets",
         "title": "Wat we bouwden om het te toetsen",
-        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>Het kleinste ding dat de vraag beantwoordt: een klikbaar formulier in een paar stappen, met een directe samenvatting aan het eind. Geen achterkant, geen koppelingen, alleen genoeg om echt gedrag te zien.</p></div><div class=\"imgph\" style=\"aspect-ratio:16/9;margin-top:20px;box-shadow:var(--shadow-md)\"><img class=\"imgph-img\" src=\"../assets/img/S3_validatie_rapport.png\" alt=\"\" loading=\"lazy\"><span class=\"imgph-label\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\"><rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"></rect><path d=\"m3 16 5-5 4 4 3-3 6 6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>Screenshot: het geteste prototype</span></div></div></div></body></html>"
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>Het kleinste ding dat de vraag beantwoordt: een klikbaar formulier in een paar stappen, met een directe samenvatting aan het eind. Geen achterkant, geen koppelingen, alleen genoeg om echt gedrag te zien.</p></div><div class=\"imgph\" style=\"aspect-ratio:16/9;margin-top:20px;box-shadow:var(--shadow-md)\"><img class=\"imgph-img\" src=\"/assets/img/S3_validatie_rapport.png\" alt=\"Sfeerbeeld: Het validatierapport met feedback en testresultaten op een scherm, getoond in een live browseromgeving\" loading=\"lazy\"><span class=\"imgph-label\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\"><rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"></rect><path d=\"m3 16 5-5 4 4 3-3 6 6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>Screenshot: het geteste prototype</span></div></div></div></body></html>"
       },
       {
         "eyebrow": "De test",
@@ -410,7 +410,7 @@
       {
         "eyebrow": "Verder",
         "title": "Advies voor de volgende stap",
-        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>Pas de prijsstap aan en voeg een zichtbare \"liever even bellen\"-route toe. Test dat opnieuw met drie klanten. Klopt het dan, dan is dit een mooie kandidaat voor een <a href=\"../aanbod/prototype-sprint.html\" style=\"color:var(--primary);font-weight:600\">3.1 Prototype-sprint</a> om het echt te bouwen.</p></div></div></div></body></html>"
+        "contentHtml": "<html><head></head><body><div class=\"wrap\"><div class=\"reveal\"><div class=\"vb-prose\"><p>Pas de prijsstap aan en voeg een zichtbare \"liever even bellen\"-route toe. Test dat opnieuw met drie klanten. Klopt het dan, dan is dit een mooie kandidaat voor een <a href=\"/aanbod/prototype-sprint\" style=\"color:var(--primary);font-weight:600\">3.1 Prototype-sprint</a> om het echt te bouwen.</p></div></div></div></body></html>"
       }
     ]
   }

@@ -6,7 +6,7 @@
     "spoorText": "Een pad",
     "isLosBoekbaar": true,
     "imageSrc": "../assets/img/11_3_pad_directiepad.png",
-    "imageAlt": "Dusty in actie",
+    "imageAlt": "Sfeerbeeld: Het directiepad traject overzicht met nulmeting, directiesessie en kickoff",
     "imageLabel": "Foto: Dusty in actie tijdens deze sessie · liggend, breed",
     "oplevert": [
       "Een heldere koers aan de top",
@@ -98,7 +98,7 @@
     "spoorText": "Een pad",
     "isLosBoekbaar": true,
     "imageSrc": "../assets/img/11_1_pad_startpad.png",
-    "imageAlt": "Dusty in actie",
+    "imageAlt": "Sfeerbeeld: Het startpad traject overzicht met nulmeting, slim werken en veiligheid",
     "imageLabel": "Foto: Dusty in actie tijdens deze sessie · liggend, breed",
     "oplevert": [
       "Een vloer waarop AI normaal is",
@@ -202,7 +202,7 @@
     "spoorText": "Een pad",
     "isLosBoekbaar": true,
     "imageSrc": "../assets/img/11_2_pad_versnelpad.png",
-    "imageAlt": "Dusty in actie",
+    "imageAlt": "Sfeerbeeld: Het versnelpad traject overzicht met nulmeting, ideetoets en prototyping",
     "imageLabel": "Foto: Dusty in actie tijdens deze sessie · liggend, breed",
     "oplevert": [
       "Werkende prototypes in handen",
