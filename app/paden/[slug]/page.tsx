@@ -55,6 +55,13 @@ export default async function PathPage({ params }: PageProps) {
   const isSpoor2 = slug === "versnelpad";
   const spoorValue = isSpoor2 ? "2" : "";
 
+  const spoorClasses: Record<string, string> = {
+    startpad: "k-human",
+    versnelpad: "k-agent",
+    directiepad: "k-automate",
+  };
+  const pathSpoorClass = spoorClasses[slug] || "k-human";
+
   return (
     <main>
       <SpoorWrapper spoor={spoorValue} />
@@ -71,7 +78,7 @@ export default async function PathPage({ params }: PageProps) {
             <span className="cur">{pathDetail.title}</span>
           </nav>
           <div className="detail-flags hero-eyebrow">
-            <span className="spoor-pill k-human">
+            <span className={`spoor-pill ${pathSpoorClass}`}>
               <span className="dot"></span>{pathDetail.spoorText}
             </span>
           </div>
@@ -106,7 +113,7 @@ export default async function PathPage({ params }: PageProps) {
       {/* USP BAND */}
       <section className="section-tight">
         <div className="wrap">
-          <div className="oplevert k-human reveal">
+          <div className={`oplevert ${pathSpoorClass} reveal`}>
             <span className="eyebrow">
               <span className="dot"></span>Wat het je oplevert
             </span>
@@ -162,9 +169,9 @@ export default async function PathPage({ params }: PageProps) {
       </section>
 
       {/* PATH ITEMS OUTLINE & ASIDE CARD */}
-      <section className="section k-human" style={{ background: "var(--surface-2)", borderBlock: "1px solid var(--line)" }}>
+      <section className={`section ${pathSpoorClass}`} style={{ background: "var(--surface-2)", borderBlock: "1px solid var(--line)" }}>
         <div className="wrap">
-          <div className="detail k-human">
+          <div className={`detail ${pathSpoorClass}`}>
             <div className="detail-main">
               {pathDetail.included && pathDetail.included.length > 0 && (
                 <section className="detail-block reveal">
@@ -209,7 +216,7 @@ export default async function PathPage({ params }: PageProps) {
 
               {pathDetail.anders && pathDetail.anders.text && (
                 <section className="detail-block reveal">
-                  <div className="card anders-card k-human">
+                  <div className={`card anders-card ${pathSpoorClass}`}>
                     <h2>{pathDetail.anders.title || "De winst"}</h2>
                     <p>{pathDetail.anders.text}</p>
                   </div>
@@ -218,7 +225,7 @@ export default async function PathPage({ params }: PageProps) {
 
               {pathDetail.praktijk && pathDetail.praktijk.text && (
                 <section className="detail-block reveal">
-                  <div className="card praktijk k-human">
+                  <div className={`card praktijk ${pathSpoorClass}`}>
                     <span className="pk-ic">
                       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" className="w-6 h-6">
                         <path d="M9 18h6M10 21h4M12 3a6 6 0 0 1 4 10.5c-.7.7-1 1.3-1 2.5H9c0-1.2-.3-1.8-1-2.5A6 6 0 0 1 12 3Z" />
@@ -283,7 +290,7 @@ export default async function PathPage({ params }: PageProps) {
               {pathDetail.deliverables.map((deliv, idx) => {
                 // Check spoor class
                 const isNulmeting = deliv.step === "0";
-                const spoorClass = isNulmeting ? "k-agent" : "k-human";
+                const spoorClass = isNulmeting ? "k-agent" : pathSpoorClass;
                 return (
                   <Link className={`card xsell ${spoorClass}`} href={cleanLink(deliv.href)} key={idx}>
                     <span className="xs-spoor">

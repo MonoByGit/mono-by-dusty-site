@@ -419,7 +419,7 @@ export default function Home() {
               <span className="dot"></span>Wat klanten zeggen
             </span>
             <h2>In hun eigen woorden.</h2>
-            <p>Vijf klanten verhalen (gereserveerde placeholders, wachten op goedkeuring).</p>
+            <p>Vijf klanten werkten met Mono. Hun verhalen worden nu zorgvuldig uitgewerkt en krijgen hier binnenkort hun plek.</p>
           </div>
           
           <figure className="tmx-feature reveal">

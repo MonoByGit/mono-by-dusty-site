@@ -8,13 +8,23 @@ const NAV_LINKS = [
   { name: "Aanpak", href: "/#aanpak" },
   { name: "Aanbod", href: "/aanbod" },
   { name: "Paden", href: "/paden" },
-  { name: "Prijzen", href: "/prijzen" },
-  { name: "Over", href: "/#over" }
+  { name: "Nulmeting", href: "/nulmeting" },
+  { name: "Prijzen", href: "/prijzen" }
+];
+
+const MOBILE_LINKS = [
+  { name: "Aanpak", href: "/#aanpak", num: "01" },
+  { name: "Aanbod", href: "/aanbod", num: "02" },
+  { name: "Paden", href: "/paden", num: "03" },
+  { name: "Nulmeting", href: "/nulmeting", num: "03" },
+  { name: "Prijzen", href: "/prijzen", num: "04" },
+  { name: "Contact", href: "/contact", num: "05" }
 ];
 
 export default function Navbar() {
   const pathname = usePathname();
   const [mobileOpen, setMobileOpen] = useState(false);
+  const [scrolled, setScrolled] = useState(false);
   
   const innerRef = useRef<HTMLDivElement>(null);
   const indRef = useRef<HTMLSpanElement>(null);
@@ -24,17 +34,25 @@ export default function Navbar() {
   const [activeIndex, setActiveIndex] = useState<number | null>(null);
 
   useEffect(() => {
+    const handleScroll = () => {
+      setScrolled(window.scrollY > 8);
+    };
+    handleScroll();
+    window.addEventListener("scroll", handleScroll, { passive: true });
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
+  useEffect(() => {
     // Determine which link is active based on path
     let foundIndex = -1;
     if (pathname === "/aanbod" || pathname.startsWith("/aanbod/")) {
       foundIndex = 1;
     } else if (pathname === "/paden" || pathname.startsWith("/paden/")) {
       foundIndex = 2;
-    } else if (pathname === "/prijzen") {
+    } else if (pathname === "/nulmeting") {
       foundIndex = 3;
-    } else if (pathname === "/") {
-      // Default to nothing or hash-based matching on scroll (simplified to default active for now)
-      foundIndex = -1; 
+    } else if (pathname === "/prijzen") {
+      foundIndex = 4;
     }
     setActiveIndex(foundIndex);
   }, [pathname]);
@@ -97,7 +115,7 @@ export default function Navbar() {
 
   return (
     <>
-      <header className="nav">
+      <header className={`nav ${scrolled ? "scrolled" : ""}`}>
         <div ref={innerRef} className="wrap wrap-wide nav-inner">
           <span ref={indRef} className="nav-ind" aria-hidden="true"></span>
           
@@ -189,23 +207,16 @@ export default function Navbar() {
           </button>
         </div>
         <nav className="wrap mobile-links" aria-label="Mobiel menu">
-          {NAV_LINKS.map((link, idx) => (
+          {MOBILE_LINKS.map((link) => (
             <Link 
-              key={link.name} 
+              key={`${link.name}-${link.num}`} 
               href={link.href} 
               onClick={() => setMobileOpen(false)}
             >
-              <span className="num">{String(idx + 1).padStart(2, "0")}</span>
+              <span className="num">{link.num}</span>
               {link.name}
             </Link>
           ))}
-          <Link 
-            href="/nulmeting" 
-            onClick={() => setMobileOpen(false)}
-          >
-            <span className="num">06</span>
-            Nulmeting
-          </Link>
         </nav>
         <div className="wrap mobile-foot">
           <Link 

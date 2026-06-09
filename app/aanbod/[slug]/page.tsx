@@ -57,6 +57,13 @@ export default async function PackagePage({ params }: PageProps) {
   const isSpoor2 = pkg.spoorText.includes("Spoor 2");
   const spoorValue = isSpoor2 ? "2" : "";
 
+  // Clean spoor class mapping (removes "spoor-pill" from layout container classes)
+  const cleanSpoorClass = pkg.spoorClass.includes("k-human")
+    ? "k-human"
+    : pkg.spoorClass.includes("k-agent")
+    ? "k-agent"
+    : "k-automate";
+
   return (
     <main>
       <SpoorWrapper spoor={spoorValue} />
@@ -77,7 +84,7 @@ export default async function PackagePage({ params }: PageProps) {
                 <span className="pulse"></span>Los te boeken
               </span>
             )}
-            <span className={`spoor-pill ${pkg.spoorClass}`}>
+            <span className={`spoor-pill ${cleanSpoorClass}`}>
               <span className="dot"></span>{pkg.spoorText}
             </span>
           </div>
@@ -112,7 +119,7 @@ export default async function PackagePage({ params }: PageProps) {
       {/* USP BAND */}
       <section className="section-tight">
         <div className="wrap">
-          <div className={`oplevert ${pkg.spoorClass} reveal`}>
+          <div className={`oplevert ${cleanSpoorClass} reveal`}>
             <span className="eyebrow">
               <span className="dot"></span>Wat het je oplevert
             </span>
@@ -168,9 +175,9 @@ export default async function PackagePage({ params }: PageProps) {
       </section>
 
       {/* DETAILED AGENDA & BOOKING BLOCK */}
-      <section className={`section ${pkg.spoorClass}`} style={{ background: "var(--surface-2)", borderBlock: "1px solid var(--line)" }}>
+      <section className={`section ${cleanSpoorClass}`} style={{ background: "var(--surface-2)", borderBlock: "1px solid var(--line)" }}>
         <div className="wrap">
-          <div className={`detail ${pkg.spoorClass}`}>
+          <div className={`detail ${cleanSpoorClass}`}>
             <div className="detail-main">
               {pkg.voorWie && (
                 <section className="detail-block reveal">
@@ -223,7 +230,7 @@ export default async function PackagePage({ params }: PageProps) {
 
               {pkg.praktijk && pkg.praktijk.text && (
                 <section className="detail-block reveal">
-                  <div className={`card praktijk ${pkg.spoorClass}`}>
+                  <div className={`card praktijk ${cleanSpoorClass}`}>
                     <span className="pk-ic">
                       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" className="w-6 h-6">
                         <path d="M9 18h6M10 21h4M12 3a6 6 0 0 1 4 10.5c-.7.7-1 1.3-1 2.5H9c0-1.2-.3-1.8-1-2.5A6 6 0 0 1 12 3Z" />
@@ -239,7 +246,7 @@ export default async function PackagePage({ params }: PageProps) {
 
               {pkg.anders && pkg.anders.text && (
                 <section className="detail-block reveal">
-                  <div className={`card anders-card ${pkg.spoorClass}`}>
+                  <div className={`card anders-card ${cleanSpoorClass}`}>
                     <h2>{pkg.anders.title || "Wat het anders maakt"}</h2>
                     <p>{pkg.anders.text}</p>
                   </div>
@@ -291,7 +298,7 @@ export default async function PackagePage({ params }: PageProps) {
       {pkg.example && pkg.example.name && (
         <section className="section">
           <div className="wrap">
-            <div className={`example-showcase ${pkg.spoorClass} reveal`}>
+            <div className={`example-showcase ${cleanSpoorClass} reveal`}>
               <div className="es-visual">
                 <div className="es-doc">
                   <span className="es-badge">
@@ -372,7 +379,7 @@ export default async function PackagePage({ params }: PageProps) {
 
       {/* RELATED CROSS SELLS */}
       {pkg.crossSells && pkg.crossSells.length > 0 && (
-        <section className={`section ${pkg.spoorClass}`} style={{ background: "var(--surface-2)", borderBlock: "1px solid var(--line)" }}>
+        <section className={`section ${cleanSpoorClass}`} style={{ background: "var(--surface-2)", borderBlock: "1px solid var(--line)" }}>
           <div className="wrap wrap-wide">
             <div className="sec-head reveal">
               <div className="sh-text">
@@ -386,7 +393,7 @@ export default async function PackagePage({ params }: PageProps) {
             </div>
             <div className="xsell-grid" data-stagger>
               {pkg.crossSells.map((cs, idx) => (
-                <Link className={`card xsell ${pkg.spoorClass}`} href={cleanLink(cs.href)} key={idx}>
+                <Link className={`card xsell ${cleanSpoorClass}`} href={cleanLink(cs.href)} key={idx}>
                   <span className="xs-spoor">
                     <span className="dot"></span>
                     {cs.step}

@@ -1,0 +1,7 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "dev", "runtimeExecutable": "npm", "runtimeArgs": ["--prefix", "/Users/idusty/Documents/Cosmo OS/Mono by Dusty/AI-dienst/mono-by-dusty-site", "run", "dev"], "port": 3000, "autoPort": true },
+    { "name": "proto", "runtimeExecutable": "python3", "runtimeArgs": ["-m", "http.server", "8347"], "port": 8347, "autoPort": false }
+  ]
+}

@@ -7,44 +7,11 @@ export default function ParallaxBackground() {
   const waveRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    // 1. Hero entrance
-    const root = document.documentElement;
     const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
-    const fireHero = () => {
-      root.classList.add("hero-go");
-    };
-
-    // Wait for fonts to settle or 500ms safety
-    let done = false;
-    const go = () => {
-      if (done) return;
-      done = true;
-      requestAnimationFrame(fireHero);
-    };
-
-    if (document.fonts && document.fonts.ready) {
-      Promise.race([
-        document.fonts.ready,
-        new Promise((resolve) => setTimeout(resolve, 500))
-      ]).then(go);
-    }
-    setTimeout(go, 600);
-
-    const handleVisibility = () => {
-      if (!document.hidden) fireHero();
-    };
-    document.addEventListener("visibilitychange", handleVisibility);
-
-    // 2. Parallax and Nav Border Scroll
+    // 2. Parallax Scroll
     const onScroll = () => {
       const sy = window.scrollY;
-      
-      const nav = document.querySelector(".nav");
-      // Nav scrolled class
-      if (nav) {
-        nav.classList.toggle("scrolled", sy > 8);
-      }
 
       // Parallax background scroll
       if (!reduce) {
@@ -62,7 +29,6 @@ export default function ParallaxBackground() {
     onScroll();
 
     return () => {
-      document.removeEventListener("visibilitychange", handleVisibility);
       window.removeEventListener("scroll", onScroll);
     };
   }, []);
